@@ -1,0 +1,56 @@
+Absolutely — here’s your voice file **with the edits fully integrated**, printed as a complete drop-in replacement.
+
+```text
+Daniel Schiff / GRAIL standing preferences
+
+## Voice + tone
+- Clear, direct, audience-aware, academically grounded.
+- Confident but not hype. Prefer: “we find / we show / results suggest / in our sample” and avoid “I/my” in describing the research.
+- Avoid salesy framing (“game-changing”, “first ever”, “must-read”, excessive exclamation).
+- Avoid cliché LLM phrases (“let’s delve into”, “unpacking”, “a testament to”, “underscore”, “multifaceted”, “nuanced”).
+
+## Authorship + pronouns (default)
+- Default to collective framing: “we”, “our paper”, “our study”, “the paper finds…”.
+- Avoid first-person singular (“I”, “my”, “in my paper”) unless the user explicitly indicates sole authorship.
+- If coauthors are listed (or likely), assume “we” throughout.
+- Use “I” only for a personal closing line that does NOT imply sole authorship (e.g., “I’d love to hear what you think”)—and keep research claims in “we/our” form.
+- Safe phrasing templates: “In our paper, we…”, “We examine…”, “We analyze…”, “We find evidence that…”, “Results suggest…”.
+
+## Default positioning (use lightly; don’t repeat every post)
+- Default identifier: “Daniel Schiff (Purdue), co-director of the Governance & Responsible AI Lab (GRAIL).”
+- When relevant, frame why it matters for AI governance: institutions, accountability, adoption decisions, legitimacy, risk management, implementation.
+
+## Claim precision + disclaimers
+- Avoid causal language unless the design clearly supports it (randomized/experimental or strong quasi-experimental).
+- If correlational/observational: explicitly say “association/linked to/consistent with”.
+- If sample is small, specialized, or context-specific: note that briefly (one clause).
+
+## CTA style (one max; soft)
+- Default CTAs:
+  - “Curious what you think—does this match what you’re seeing?”
+  - “Happy to share details/materials if useful.”
+  - “If you’re working on [topic], feel free to reach out or share your thoughts.”
+  - “Paper below.”
+- Avoid influencer CTAs (“smash like/retweet”, “don’t miss out”, “subscribe”).
+
+## Audience targeting defaults
+- Default audiences to name when appropriate: policy practitioners, governance teams, researchers, org leaders.
+- If sector-specific (education / labor / policing / public administration), explicitly name it.
+
+## Hashtags (restrained)
+- X/Bluesky: 2–4 hashtags. LinkedIn: 3–6.
+- Prioritize: #AIGovernance #ResponsibleAI #AIethics #TechPolicy
+- Only add niche hashtags if central to the paper.
+
+## Mentions / affiliations
+- X: tag @GRAIL_center and @purduepolsci for Purdue/GRAIL
+- Bluesky: use @GRAILcenter.bsky.social and @purduepolsci.bsky.social
+- LinkedIn: end with “GRAIL Center | Purdue University”
+
+## Link behavior preference (if link exists)
+- X/Bluesky: link in first post + final post.
+- LinkedIn: link in first paragraph.
+- If no link is provided, omit link lines (no placeholders).
+```
+
+If you want the model to *never* use “I” at all (even in the final CTA), tell me and I’ll tweak that one bullet accordingly.

@@ -18,6 +18,24 @@ from pragent.backend.agents import setup_client, call_text_llm_api
 import base64
 import mimetypes
 import re
+from datetime import datetime
+
+# added
+from dotenv import load_dotenv
+from pathlib import Path
+load_dotenv(dotenv_path=Path(__file__).resolve().parent / ".env")
+
+import os
+k = os.getenv("TEXT_API_KEY") or os.getenv("OPENAI_API_KEY")
+b = os.getenv("TEXT_API_BASE") or os.getenv("OPENAI_API_BASE")
+print("BASE SET?", bool(b), "KEY SET?", bool(k), "KEY LEN:", (len(k) if k else 0))
+
+def _safe_slug(s: str, max_len: int = 60) -> str:
+    s = (s or "").strip()
+    # Replace non-filename-safe chars with underscores
+    s = re.sub(r"[^A-Za-z0-9_-]+", "_", s)
+    s = re.sub(r"_+", "_", s).strip("_")
+    return s[:max_len] if len(s) > max_len else s
 
 FORMAT_PROMPT_TEMPLATE = '''
 You are an expert in structuring social media content. Your task is to convert a post written in Markdown format into a structured JSON format. The JSON structure depends on the target platform.
@@ -200,20 +218,29 @@ async def process_pdf(
     base_url,
     text_model,
     vision_model,
+    model_path,
     platform,
     language,
     progress=gr.Progress(track_tqdm=True)
 ):
+
     # Use text_api_key for vision_api_key if it's not provided
     vision_api_key = vision_api_key or text_api_key
 
-    if not all([pdf_file, text_api_key, vision_api_key, base_url, text_model, vision_model, platform, language]):
+    if not all([pdf_file, text_api_key, vision_api_key, base_url, text_model, vision_model, model_path, platform, language]):
         raise gr.Error("Please fill in all required fields and upload a PDF.")
 
     work_dir = None
     try:
-        session_id = f"session_{int(time.time())}"
-        work_dir = Path(".temp_output") / session_id
+        #session_id = f"session_{int(time.time())}"
+        #work_dir = Path(".temp_output") / session_id
+        #work_dir = Path("outputs") / session_id
+        #work_dir.mkdir(parents=True, exist_ok=True)
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+        pdf_stem = Path(pdf_file.name).stem if pdf_file else "paper"
+        slug = _safe_slug(pdf_stem)
+        session_id = f"{ts}__{slug}"
+        work_dir = Path("outputs") / session_id
         work_dir.mkdir(parents=True, exist_ok=True)
         
         pdf_path = Path(work_dir) / Path(pdf_file.name).name
@@ -230,7 +257,7 @@ async def process_pdf(
         progress(0.3, desc="Step 2/5: Extracting figures from PDF...")
         extraction_work_dir = work_dir / "figure_extraction"
         extraction_work_dir.mkdir()
-        paired_dir = await run_figure_extraction(str(pdf_path), str(extraction_work_dir), progress=progress)
+        paired_dir = run_figure_extraction(str(pdf_path), str(extraction_work_dir), model_path)
         if not paired_dir or not any(Path(paired_dir).iterdir()):
             raise gr.Error("Failed to extract any figures from the PDF.")
 
@@ -435,12 +462,35 @@ with gr.Blocks(theme=gr.themes.Soft(), css=CUSTOM_CSS) as demo:
         with gr.Column(scale=1):
             pdf_upload = gr.File(label="Upload PDF Paper", file_types=[".pdf"])
             
-            with gr.Accordion("Advanced Settings", open=True):
-                text_api_key_input = gr.Textbox(label="Text API Key", type="password", placeholder="Required: sk-...")
-                vision_api_key_input = gr.Textbox(label="Vision API Key (Optional)", type="password", placeholder="Optional: If not provided, Text API Key will be used")
-                base_url_input = gr.Textbox(label="API Base URL")
-                text_model_input = gr.Textbox(label="Text Model")
-                vision_model_input = gr.Textbox(label="Vision Model")
+        with gr.Accordion("Advanced Settings", open=True):
+            text_api_key_input = gr.Textbox(
+                label="Text API Key",
+                type="password",
+                value=os.getenv("TEXT_API_KEY") or os.getenv("OPENAI_API_KEY") or ""
+            )
+            vision_api_key_input = gr.Textbox(
+                label="Vision API Key (Optional)",
+                type="password",
+                value=os.getenv("VISION_API_KEY") or ""
+            )
+            base_url_input = gr.Textbox(
+                label="API Base URL",
+                value=os.getenv("TEXT_API_BASE") or os.getenv("OPENAI_API_BASE") or "https://api.poe.com/v1"
+            )
+            model_path_input = gr.Textbox(
+                label="DocLayout-YOLO Model Path",
+                value=os.getenv("MODEL_PATH") or r".\models\doclayout_yolo_docstructbench_imgsz1024.pt"
+            )
+            text_model_input = gr.Textbox(
+                label="Text Model",
+                value=os.getenv("TEXT_MODEL") or ""
+            )
+            vision_model_input = gr.Textbox(
+                label="Vision Model",
+                value=os.getenv("VISION_MODEL") or (os.getenv("TEXT_MODEL") or "")
+            )
+
+
 
             platform_select = gr.Radio(["twitter", "xiaohongshu"], label="Target Platform", value="twitter")
             language_select = gr.Radio([("English", "en"), ("Chinese", "zh")], label="Language", value="en")
@@ -461,6 +511,7 @@ with gr.Blocks(theme=gr.themes.Soft(), css=CUSTOM_CSS) as demo:
             base_url_input,
             text_model_input,
             vision_model_input,
+            model_path_input,
             platform_select,
             language_select
         ],
@@ -476,5 +527,6 @@ with gr.Blocks(theme=gr.themes.Soft(), css=CUSTOM_CSS) as demo:
 
 if __name__ == "__main__":
     # Create the hidden temp directory
-    Path(".temp_output").mkdir(exist_ok=True)
+    #Path(".temp_output").mkdir(exist_ok=True)
+    Path("outputs").mkdir(exist_ok=True)
     demo.launch()

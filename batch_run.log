@@ -1,0 +1,83 @@
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0000__Schiff_et_al_2025 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0000__Schiff_et_al_2025\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0001__Bewersdorff_et_al_2025 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0001__Bewersdorff_et_al_2025\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0002__Susser_et_al_Synthetic ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0002__Susser_et_al_Synthetic\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0003__Ganz_Schiff_2025_Subcoalition ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0003__Ganz_Schiff_2025_Subcoalition\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0004__Love_et_al_2024 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0004__Love_et_al_2024\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0005__Hornberger_et_al_2025 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0005__Hornberger_et_al_2025\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0006__Wiese_et_al_2025 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0006__Wiese_et_al_2025\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0007__Wiese_et_al_2025 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0007__Wiese_et_al_2025\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0008__Hornberger_et_al_2025 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0008__Hornberger_et_al_2025\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0009__Schiff_et_al_2025 ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0009__Schiff_et_al_2025\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0010__Schiff_2025_Strategies_for ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0010__Schiff_2025_Strategies_for\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] === 0011__Schiff_2025_Future_Trends ===
+[2025-12-29 11:40:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0011__Schiff_2025_Future_Trends\platform_posts.json
+[2025-12-29 11:40:12] 
+[2025-12-29 11:40:12] Done. Projects processed: 12. Failures: 0.
+[2025-12-29 11:46:56] ⚠️ TYPEFULLY_API_KEY is not set in this shell (load .env or set env var).
+[2025-12-29 11:46:56] 
+[2025-12-29 11:46:56] === 0012_James_2025_Extraction ===
+[2025-12-29 11:46:56] > python -m pragent.run --input-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\papers\0012_James_2025_Extraction --output-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs --model-path models\doclayout_yolo_docstructbench_imgsz1024.pt --concurrency 1 --post-format description_only
+[2025-12-29 11:47:05] > python D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\postprocess.py --project 0012_James_2025_Extraction
+[2025-12-29 11:47:06] ❌ postprocess failed: 0012_James_2025_Extraction (exit 1)
+[2025-12-29 11:47:06] 
+[2025-12-29 11:47:06] Done. Projects processed: 1. Failures: 1.
+[2025-12-29 12:17:41] 
+[2025-12-29 12:17:41] === 0012_James_2025_Extraction ===
+[2025-12-29 12:17:41] DRY RUN > python -m pragent.run --input-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\papers\0012_James_2025_Extraction --output-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs --model-path models\doclayout_yolo_docstructbench_imgsz1024.pt --concurrency 1 --post-format rich
+[2025-12-29 12:17:41] DRY RUN > python D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\postprocess.py --project 0012_James_2025_Extraction
+[2025-12-29 12:17:41] ❌ missing JSON (skipping push): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0012_James_2025_Extraction\platform_posts.json
+[2025-12-29 12:17:42] 
+[2025-12-29 12:17:42] Done. Projects processed: 1. Failures: 1.
+[2025-12-29 12:18:48] 
+[2025-12-29 12:18:48] === 0012_James_2025_Extraction ===
+[2025-12-29 12:18:48] > python -m pragent.run --input-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\papers\0012_James_2025_Extraction --output-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs --model-path models\doclayout_yolo_docstructbench_imgsz1024.pt --concurrency 1 --post-format rich
+[2025-12-29 12:19:31] > python D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\postprocess.py --project 0012_James_2025_Extraction
+[2025-12-29 12:20:04] > python D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\typefully_push.py --json D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0012_James_2025_Extraction\platform_posts.json
+[2025-12-29 12:20:05] ✅ pushed: 0012_James_2025_Extraction
+[2025-12-29 12:20:05] 
+[2025-12-29 12:20:05] Done. Projects processed: 1. Failures: 0.
+[2025-12-29 12:22:12] 
+[2025-12-29 12:22:12] === 0012_James_2025_Extraction ===
+[2025-12-29 12:22:12] Skipping extract (exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0012_James_2025_Extraction\markdown.md
+[2025-12-29 12:22:12] Skipping postprocess (JSON exists): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0012_James_2025_Extraction\platform_posts.json
+[2025-12-29 12:22:12] > python D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\typefully_push.py --json D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0012_James_2025_Extraction\platform_posts.json
+[2025-12-29 12:22:13] ✅ pushed: 0012_James_2025_Extraction
+[2025-12-29 12:22:14] 
+[2025-12-29 12:22:14] Done. Projects processed: 1. Failures: 0.
+[2026-01-14 08:38:30] 
+[2026-01-14 08:38:30] === 0013_Jacobson_2026_Polarization ===
+[2026-01-14 08:38:30] > python -m pragent.run --input-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\papers\0013_Jacobson_2026_Polarization --output-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs --model-path models\doclayout_yolo_docstructbench_imgsz1024.pt --concurrency 1 --post-format rich
+[2026-01-14 08:39:08] > python D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\postprocess.py --project 0013_Jacobson_2026_Polarization
+[2026-01-14 08:39:09] ❌ postprocess failed: 0013_Jacobson_2026_Polarization (exit 1)
+[2026-01-14 08:39:09] 
+[2026-01-14 08:39:09] Done. Projects processed: 1. Failures: 1.
+[2026-01-14 10:18:07] 
+[2026-01-14 10:18:07] === 0013_Jacobson_2026_Polarization ===
+[2026-01-14 10:18:07] > python -m pragent.run --input-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\papers\0013_Jacobson_2026_Polarization --output-dir D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs --model-path models\doclayout_yolo_docstructbench_imgsz1024.pt --concurrency 1 --post-format rich
+[2026-01-14 10:20:17] > python D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\postprocess.py --project 0013_Jacobson_2026_Polarization
+[2026-01-14 10:20:18] ❌ missing JSON (skipping push): D:\Dropbox\Documents\Academics\Purdue\GitHub\AutoPR\outputs\0013_Jacobson_2026_Polarization\platform_posts.json
+[2026-01-14 10:20:19] 
+[2026-01-14 10:20:19] Done. Projects processed: 1. Failures: 1.

@@ -18,7 +18,7 @@ def _prepare_extra_body(model_name: str, disable_qwen_thinking: bool) -> Optiona
 async def setup_client(api_key: str, base_url: str) -> AsyncIterator[AsyncOpenAI]:
     """Use an asynchronous context manager to create and properly destroy the API client."""
     client = None
-    if not api_key or "sk-" not in api_key:
+    if not api_key:
         tqdm.write("[!] Error: API Key is invalid or not set.")
         yield None
         return

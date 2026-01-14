@@ -55,3 +55,4 @@ metric_results.jsonl
 generated_post
 .gradio
 /.temp_output/
+*.jpg

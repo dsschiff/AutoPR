@@ -7,29 +7,40 @@ from pragent.backend.loader import ImagePDFLoader
 from pragent.backend.yolo import extract_and_save_layout_components
 from tqdm.asyncio import tqdm
 
+#added
+import hashlib
+SHORT_TMP = Path(os.environ.get("AUTOPR_TEMP", r"D:\aprtmp"))
+SHORT_TMP.mkdir(parents=True, exist_ok=True)
+
+def _short_stem(name: str, max_len: int = 48) -> str:
+    # filename-safe and short, with a hash to avoid collisions
+    s = re.sub(r"[^A-Za-z0-9_-]+", "_", name).strip("_")
+    h = hashlib.sha1(name.encode("utf-8")).hexdigest()[:8]
+    s = s[:max_len]
+    return f"{s}__{h}"
+
 def run_figure_extraction(pdf_path: str, base_work_dir: str, model_path: str) -> str:
-    """
-    A complete workflow for extracting and pairing charts from a PDF.
-    This is the main function called by app.py.
-
-    Args:
-        pdf_path (str): The path to the PDF uploaded by the user.
-        base_work_dir (str): The temporary working directory for this session.
-        model_path (str): The path to the YOLO model for document layout analysis.
-
-    Returns:
-        str: The directory path of the final pairing result, or None if it fails.
-    """
     if not all([ImagePDFLoader, extract_and_save_layout_components]):
         tqdm.write("[!] Error: One or more core dependencies of figure_pipeline failed to load.")
         return None
 
     pdf_file = Path(pdf_path)
-    pdf_stem = pdf_file.stem
 
+    # ✅ Shrink temp root (Windows-safe)
+    temp_root = os.environ.get("AUTOPR_TEMP", "").strip()
+    if temp_root:
+        session_name = Path(base_work_dir).name  # e.g., session_..._0003__Ganz...
+        work_dir = os.path.join(temp_root, session_name)
+    else:
+        work_dir = base_work_dir
+
+    os.makedirs(work_dir, exist_ok=True)
+
+    # ✅ Do NOT nest by pdf_stem — paths get too long on Windows
     tqdm.write(f"\n--- Step 1/3: Convert PDF '{pdf_file.name}' to images ---")
-    page_save_dir = os.path.join(base_work_dir, "page_paper", pdf_stem)
+    page_save_dir = os.path.join(work_dir, "page_paper")
     os.makedirs(page_save_dir, exist_ok=True)
+
     try:
         loader = ImagePDFLoader(pdf_path)
         page_image_paths = []
@@ -43,20 +54,33 @@ def run_figure_extraction(pdf_path: str, base_work_dir: str, model_path: str) ->
         return None
 
     tqdm.write(f"\n--- Step 2/3: Analyze page layout to crop figures and tables ---")
-    cropped_results_dir = os.path.join(base_work_dir, "cropped_results", pdf_stem)
+    cropped_results_dir = os.path.join(work_dir, "cropped_results")
+    os.makedirs(cropped_results_dir, exist_ok=True)
+
     for path in page_image_paths:
-        page_num_str = Path(path).stem
+        page_num_str = Path(path).stem  # e.g., page_1
         page_crop_dir = os.path.join(cropped_results_dir, page_num_str)
-        extract_and_save_layout_components(image_path=path, model_path=model_path, save_base_dir=page_crop_dir)
+        os.makedirs(page_crop_dir, exist_ok=True)
+
+        extract_and_save_layout_components(
+            image_path=path,
+            model_path=model_path,
+            save_base_dir=page_crop_dir
+        )
+
     tqdm.write(f"[*] All cropped results have been saved to: {cropped_results_dir}")
 
     tqdm.write(f"\n--- Step 3/3: Pair the cropped components ---")
-    final_paired_dir = os.path.join(base_work_dir, "paired_results", pdf_stem)
+    final_paired_dir = os.path.join(work_dir, "paired_results")
+    os.makedirs(final_paired_dir, exist_ok=True)
+
     run_pairing_process(cropped_results_dir, final_paired_dir, threshold=30)
-    
+
     if os.path.isdir(final_paired_dir):
         return final_paired_dir
     return None
+
+
 
 def run_pairing_process(source_dir_str: str, output_dir_str: str, threshold: int):
     """Pairing logic, now part of the pipeline."""
