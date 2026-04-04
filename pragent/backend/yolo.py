@@ -30,7 +30,8 @@ def extract_and_save_layout_components(image_path, model_path, save_base_dir="./
     """
     model = YOLOv10(model_path)
     image = Image.open(image_path)
-    det_results = model.predict(image_path, imgsz=imgsz, conf=conf, device="0")
+    # Respect caller-selected device; default can be CPU-only environments.
+    det_results = model.predict(image_path, imgsz=imgsz, conf=conf, device=device)
 
     result = det_results[0]
     boxes = result.boxes.xyxy.cpu().tolist()

@@ -1,6 +1,7 @@
 import argparse
 import os
 import subprocess
+import sys
 import time
 from datetime import datetime
 from pathlib import Path
@@ -28,7 +29,19 @@ def run_cmd(cmd: list[str], dry_run: bool, log_path: Optional[Path]) -> int:
         log_line(log_path, "DRY RUN > " + " ".join(cmd))
         return 0
     log_line(log_path, "> " + " ".join(cmd))
-    p = subprocess.run(cmd)
+    p = subprocess.run(
+        cmd,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+    )
+    if p.stdout:
+        for line in p.stdout.strip().splitlines():
+            log_line(log_path, f"[stdout] {line}")
+    if p.stderr:
+        for line in p.stderr.strip().splitlines():
+            log_line(log_path, f"[stderr] {line}")
     return p.returncode
 
 
@@ -39,6 +52,14 @@ def iter_project_names_from_papers(papers_dir: Path) -> Iterable[str]:
         if d.name.startswith("."):
             continue
         yield d.name
+
+
+def has_existing_images(out_proj_dir: Path) -> bool:
+    """Return True when output has at least one extracted image asset."""
+    img_dir = out_proj_dir / "img"
+    if not img_dir.exists() or not img_dir.is_dir():
+        return False
+    return any(p.is_file() for p in img_dir.rglob("*"))
 
 
 def main() -> None:
@@ -73,6 +94,11 @@ def main() -> None:
     )
     ap.add_argument("--concurrency", type=int, default=1, help="pragent.run concurrency.")
     ap.add_argument("--post-format", default="rich", help="pragent.run post format (rich/description_only/text_only).")
+    ap.add_argument(
+        "--force-numbering",
+        action="store_true",
+        help="Pass --force-numbering to typefully_push.py to embed i/n numbering in text.",
+    )
 
     # behavior
     ap.add_argument(
@@ -93,6 +119,9 @@ def main() -> None:
     args = ap.parse_args()
 
     repo_dir = Path(__file__).resolve().parent
+
+    # Use the same interpreter for subprocess stages to avoid PATH/venv mismatches.
+    python_exe = sys.executable
 
     # NEW: auto-load .env from repo root
     load_dotenv(dotenv_path=repo_dir / ".env")
@@ -115,9 +144,9 @@ def main() -> None:
     # sanity check Typefully env if pushing
     if args.push and not args.dry_run:
         if not os.environ.get("TYPEFULLY_API_KEY"):
-            log_line(log_path, "⚠️ TYPEFULLY_API_KEY is not set (check .env).")
+            log_line(log_path, "[WARN] TYPEFULLY_API_KEY is not set (check .env).")
         if not os.environ.get("TYPEFULLY_SOCIAL_SET_ID"):
-            log_line(log_path, "⚠️ TYPEFULLY_SOCIAL_SET_ID is not set (check .env).")
+            log_line(log_path, "[WARN] TYPEFULLY_SOCIAL_SET_ID is not set (check .env).")
 
     names = list(iter_project_names_from_papers(papers_dir))
 
@@ -153,10 +182,18 @@ def main() -> None:
         if args.extract:
             md_path = out_proj_dir / "markdown.md"
             if args.skip_existing_outputs and md_path.exists():
-                log_line(log_path, f"Skipping extract (exists): {md_path}")
+                needs_rich_assets = args.post_format in ("rich", "description_only")
+                if needs_rich_assets and not has_existing_images(out_proj_dir):
+                    log_line(
+                        log_path,
+                        f"Re-running extract: rich format requested but no images found under {out_proj_dir / 'img'}",
+                    )
+                else:
+                    log_line(log_path, f"Skipping extract (exists): {md_path}")
+                    continue
             else:
                 cmd = [
-                    "python",
+                    python_exe,
                     "-m",
                     "pragent.run",
                     "--input-dir",
@@ -173,7 +210,7 @@ def main() -> None:
                 rc = run_cmd(cmd, dry_run=args.dry_run, log_path=log_path)
                 if rc != 0:
                     failures += 1
-                    log_line(log_path, f"❌ extract failed: {name} (exit {rc})")
+                    log_line(log_path, f"[ERR] extract failed: {name} (exit {rc})")
                     if args.stop_on_error:
                         break
                     continue
@@ -185,13 +222,13 @@ def main() -> None:
                 log_line(log_path, f"Skipping postprocess (JSON exists): {json_path}")
             else:
                 rc = run_cmd(
-                    ["python", str(repo_dir / "postprocess.py"), "--project", name],
+                    [python_exe, str(repo_dir / "postprocess.py"), "--project", name],
                     dry_run=args.dry_run,
                     log_path=log_path,
                 )
                 if rc != 0:
                     failures += 1
-                    log_line(log_path, f"❌ postprocess failed: {name} (exit {rc})")
+                    log_line(log_path, f"[ERR] postprocess failed: {name} (exit {rc})")
                     if args.stop_on_error:
                         break
                     continue
@@ -200,22 +237,32 @@ def main() -> None:
         if args.push:
             if not json_path.exists():
                 failures += 1
-                log_line(log_path, f"❌ missing JSON (skipping push): {json_path}")
+                log_line(log_path, f"[ERR] missing JSON (skipping push): {json_path}")
                 if args.stop_on_error:
                     break
             else:
+                push_cmd = [
+                    python_exe,
+                    str(repo_dir / "typefully_push.py"),
+                    "--json",
+                    str(json_path),
+                    "--draft-title",
+                    name,
+                ]
+                if args.force_numbering:
+                    push_cmd.append("--force-numbering")
                 rc = run_cmd(
-                    ["python", str(repo_dir / "typefully_push.py"), "--json", str(json_path)],
+                    push_cmd,
                     dry_run=args.dry_run,
                     log_path=log_path,
                 )
                 if rc != 0:
                     failures += 1
-                    log_line(log_path, f"❌ push failed: {name} (exit {rc})")
+                    log_line(log_path, f"[ERR] push failed: {name} (exit {rc})")
                     if args.stop_on_error:
                         break
                 else:
-                    log_line(log_path, f"✅ pushed: {name}")
+                    log_line(log_path, f"[OK] pushed: {name}")
 
         if args.sleep and args.sleep > 0:
             time.sleep(args.sleep)

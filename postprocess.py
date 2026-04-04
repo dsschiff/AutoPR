@@ -6,6 +6,24 @@ import re
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple, Set
 
+# Twitter (and Bluesky) count any http/https URL as exactly 23 characters (t.co wrapping).
+_URL_RE = re.compile(r'https?://\S+')
+_TWITTER_URL_LEN = 23
+
+
+def _platform_text_len(text: str, platform: str) -> int:
+    """
+    Platform-accurate character count.
+    For 'twitter' and 'bluesky': URLs count as 23 chars regardless of actual length.
+    For everything else: plain len().
+    """
+    if platform not in ("twitter", "bluesky"):
+        return len(text)
+    length = len(text)
+    for url in _URL_RE.findall(text):
+        length += _TWITTER_URL_LEN - len(url)
+    return max(0, length)
+
 from dotenv import load_dotenv
 from openai import OpenAI  # openai>=1.x
 
@@ -77,7 +95,7 @@ def _list_images(img_dir: Path) -> List[str]:
     return [p.name for p in sorted(img_dir.iterdir()) if p.suffix.lower() in exts]
 
 
-def _save_thread_plain(out_path: Path, posts: List[Dict[str, Any]]) -> None:
+def _save_posts_text(out_path: Path, posts: List[Dict[str, Any]]) -> None:
     chunks = []
     for p in posts:
         text = (p.get("text") or "").strip()
@@ -86,18 +104,15 @@ def _save_thread_plain(out_path: Path, posts: List[Dict[str, Any]]) -> None:
             text += f"\n\n[Attach image: {img}]"
         chunks.append(text)
     out_path.write_text("\n\n---\n\n".join(chunks), encoding="utf-8")
+
+
+def _save_thread_plain(out_path: Path, posts: List[Dict[str, Any]]) -> None:
+    _save_posts_text(out_path, posts)
 
 
 def _save_typefully(out_path: Path, posts: List[Dict[str, Any]]) -> None:
-    # Same formatting for now; kept separate in case you want Typefully-specific formatting later.
-    chunks = []
-    for p in posts:
-        text = (p.get("text") or "").strip()
-        img = p.get("image")
-        if img:
-            text += f"\n\n[Attach image: {img}]"
-        chunks.append(text)
-    out_path.write_text("\n\n---\n\n".join(chunks), encoding="utf-8")
+    # Kept as a separate wrapper in case Typefully-specific formatting diverges later.
+    _save_posts_text(out_path, posts)
 
 
 def _maybe_number_posts(posts: List[Dict[str, Any]], number_posts: bool) -> List[Dict[str, Any]]:
@@ -221,13 +236,18 @@ def _typefully_number_prefix(i: int, n: int) -> str:
     return f"{i+1}/{n} "
 
 
-def _over_limit_indices(posts: List[Dict[str, Any]], limit: int, reserve_prefix: bool = True) -> List[int]:
+def _over_limit_indices(
+    posts: List[Dict[str, Any]],
+    limit: int,
+    reserve_prefix: bool = True,
+    platform: str = "twitter",
+) -> List[int]:
     n = len(posts)
     bad: List[int] = []
     for i, p in enumerate(posts):
         text = (p.get("text") or "")
         budget = len(_typefully_number_prefix(i, n)) if reserve_prefix else 0
-        if len(text) + budget > limit:
+        if _platform_text_len(text, platform) + budget > limit:
             bad.append(i)
     return bad
 
@@ -262,9 +282,13 @@ def _rewrite_one_post(client: OpenAI, model: str, text: str, max_chars: int) -> 
     out = (resp.choices[0].message.content or "").strip()
     out = _strip_code_fences(out)
 
-    # If the model ignored the limit, hard-trim as a last resort
+    # If the model ignored the limit, trim at a word boundary as last resort
     if len(out) > max_chars:
-        out = out[:max_chars].rstrip()
+        truncated = out[:max_chars]
+        last_space = truncated.rfind(" ")
+        if last_space > max_chars // 2:
+            truncated = truncated[:last_space]
+        out = truncated.rstrip()
 
     return out
 
@@ -286,7 +310,12 @@ def _enforce_thread_limits_with_targeted_rewrites(
     if not posts:
         return
 
-    bad = _over_limit_indices(posts, limit=limit, reserve_prefix=reserve_typefully_numbering)
+    bad = _over_limit_indices(
+        posts,
+        limit=limit,
+        reserve_prefix=reserve_typefully_numbering,
+        platform=platform_key,
+    )
     if not bad:
         return
 

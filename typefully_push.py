@@ -16,6 +16,9 @@ load_dotenv()
 TYPEFULLY_API_BASE = "https://api.typefully.com"
 api_key = os.environ.get("TYPEFULLY_API_KEY", "").strip()
 
+API_RETRY_MAX = int(os.environ.get("TYPEFULLY_API_RETRY_MAX", "4"))
+API_RETRY_BASE_S = float(os.environ.get("TYPEFULLY_API_RETRY_BASE_S", "1.0"))
+
 
 # -----------------------------
 # HTTP helpers
@@ -27,16 +30,41 @@ def _auth_headers(api_key: str) -> Dict[str, str]:
         "Content-Type": "application/json",
     }
 
-print("Using key prefix:", api_key[:6], "len:", len(api_key))
+
+def _request_with_retries(method: str, url: str, **kwargs) -> requests.Response:
+    """Retry transient HTTP failures and rate limits with exponential backoff."""
+    last_exc: Optional[Exception] = None
+    for attempt in range(1, API_RETRY_MAX + 1):
+        try:
+            resp = requests.request(method, url, **kwargs)
+            if resp.status_code == 429 or 500 <= resp.status_code < 600:
+                if attempt == API_RETRY_MAX:
+                    resp.raise_for_status()
+                delay = API_RETRY_BASE_S * (2 ** (attempt - 1))
+                time.sleep(delay)
+                continue
+            resp.raise_for_status()
+            return resp
+        except (requests.ConnectionError, requests.Timeout, requests.HTTPError) as exc:
+            last_exc = exc
+            if attempt == API_RETRY_MAX:
+                raise
+            delay = API_RETRY_BASE_S * (2 ** (attempt - 1))
+            time.sleep(delay)
+
+    raise RuntimeError(f"Request failed after retries: {method} {url}; last error={last_exc}")
+
+if os.environ.get("TYPEFULLY_DEBUG") == "1":
+    print("Using key prefix:", api_key[:6], "len:", len(api_key))
 
 def get_social_sets(api_key: str) -> Dict[str, Any]:
     """List social sets so you can pick the right ID."""
-    r = requests.get(
+    r = _request_with_retries(
+        "GET",
         f"{TYPEFULLY_API_BASE}/v2/social-sets",
         headers=_auth_headers(api_key),
         timeout=30,
     )
-    r.raise_for_status()
     return r.json()
 
 
@@ -46,8 +74,13 @@ def request_media_upload(api_key: str, social_set_id: str, file_name: str) -> Tu
     POST /v2/social-sets/{id}/media/upload with {"file_name": "..."}
     """
     url = f"{TYPEFULLY_API_BASE}/v2/social-sets/{social_set_id}/media/upload"
-    r = requests.post(url, headers=_auth_headers(api_key), json={"file_name": file_name}, timeout=30)
-    r.raise_for_status()
+    r = _request_with_retries(
+        "POST",
+        url,
+        headers=_auth_headers(api_key),
+        json={"file_name": file_name},
+        timeout=30,
+    )
     data = r.json()
     media_id = data.get("media_id")
     upload_url = data.get("upload_url")
@@ -77,8 +110,7 @@ def wait_for_media_ready(api_key: str, social_set_id: str, media_id: str, max_wa
     url = f"{TYPEFULLY_API_BASE}/v2/social-sets/{social_set_id}/media/{media_id}"
     start = time.time()
     while True:
-        r = requests.get(url, headers=_auth_headers(api_key), timeout=30)
-        r.raise_for_status()
+        r = _request_with_retries("GET", url, headers=_auth_headers(api_key), timeout=30)
         data = r.json()
         status = data.get("status")
         if status in ("ready", "failed"):
@@ -219,6 +251,13 @@ def maybe_strip_manual_numbering(text: str) -> str:
     return t
 
 
+def apply_thread_numbering(text: str, idx: int, total: int) -> str:
+    """Prefix text with i/n numbering after removing any existing leading numbering."""
+    base = maybe_strip_manual_numbering(text)
+    prefix = f"{idx + 1}/{total}"
+    return f"{prefix} {base}".strip()
+
+
 # -----------------------------
 # Payload builders
 # -----------------------------
@@ -231,6 +270,7 @@ def build_typefully_platform_posts(
     json_path: Path,
     media_cache: Dict[str, str],
     strip_numbering: bool = True,
+    force_numbering: bool = False,
 ) -> List[Dict[str, Any]]:
     """
     Convert your per-platform structure into Typefully v2 posts:
@@ -241,13 +281,20 @@ def build_typefully_platform_posts(
 
     # twitter/bluesky: {"posts": [{"text":..., "image": "img_0.jpg"|null}, ...]}
     if isinstance(platform_blob, dict) and "posts" in platform_blob:
-        for p in platform_blob.get("posts") or []:
+        raw_posts = platform_blob.get("posts") or []
+        total_posts = len(raw_posts)
+        for idx, p in enumerate(raw_posts):
             text = (p.get("text") or "")
             if strip_numbering:
                 text = maybe_strip_manual_numbering(text)
+            if force_numbering and total_posts > 1:
+                text = apply_thread_numbering(text, idx, total_posts)
 
             out: Dict[str, Any] = {"text": text}
             img = p.get("image")
+            quote_url = p.get("quote_post_url")
+            if isinstance(quote_url, str) and quote_url.strip():
+                out["quote_post_url"] = quote_url.strip()
 
             if isinstance(img, str) and img.strip():
                 media_id = upload_media_if_needed(
@@ -300,6 +347,8 @@ def create_typefully_draft(
     social_set_id: str,
     platforms_payload: Dict[str, Any],
     tags: Optional[List[str]] = None,
+    draft_title: Optional[str] = None,
+    publish_at: Optional[str] = None,
 ) -> Dict[str, Any]:
     """
     POST /v2/social-sets/{id}/drafts with {"platforms": {...}, "tags": [...?]}
@@ -308,9 +357,12 @@ def create_typefully_draft(
     body: Dict[str, Any] = {"platforms": platforms_payload}
     if tags:
         body["tags"] = tags
+    if draft_title:
+        body["draft_title"] = draft_title
+    if publish_at:
+        body["publish_at"] = publish_at
 
-    r = requests.post(url, headers=_auth_headers(api_key), json=body, timeout=30)
-    r.raise_for_status()
+    r = _request_with_retries("POST", url, headers=_auth_headers(api_key), json=body, timeout=30)
     return r.json()
 
 
@@ -322,6 +374,9 @@ def create_draft_from_platform_posts_json(
     strip_numbering: bool = True,
     tags: Optional[List[str]] = None,
     images_dir_override: Optional[Path] = None,
+    draft_title: Optional[str] = None,
+    publish_at: Optional[str] = None,
+    force_numbering: bool = False,
 ) -> Dict[str, Any]:
     """
     Reads your JSON format and creates a Typefully draft with selected platforms enabled.
@@ -354,6 +409,7 @@ def create_draft_from_platform_posts_json(
             json_path=json_path,
             media_cache=media_cache,
             strip_numbering=strip_numbering,
+            force_numbering=force_numbering,
         )
         platforms_payload[tf_key] = {"enabled": True, "posts": posts}
 
@@ -365,6 +421,8 @@ def create_draft_from_platform_posts_json(
         social_set_id=social_set_id,
         platforms_payload=platforms_payload,
         tags=tags,
+        draft_title=draft_title,
+        publish_at=publish_at,
     )
 
 
@@ -389,8 +447,23 @@ def _parse_args() -> argparse.Namespace:
         help="Platforms to include (Typefully keys): x linkedin bluesky",
     )
     ap.add_argument("--no-strip-numbering", action="store_true", help="Do not strip manual numbering prefixes.")
+    ap.add_argument(
+        "--force-numbering",
+        action="store_true",
+        help="Force i/n numbering into thread post text before push (use if Typefully UI numbering is unavailable).",
+    )
     ap.add_argument("--tags", nargs="*", default=None, help="Optional Typefully tags")
     ap.add_argument("--list-social-sets", action="store_true", help="List social sets and exit.")
+    ap.add_argument(
+        "--draft-title",
+        default=None,
+        help="Optional title for the draft in Typefully (internal, not posted).",
+    )
+    ap.add_argument(
+        "--publish-at",
+        default=None,
+        help="Optional publish time. Use RFC3339 datetime, 'now', or 'next-free-slot'.",
+    )
     return ap.parse_args()
 
 
@@ -426,6 +499,9 @@ if __name__ == "__main__":
         strip_numbering=(not args.no_strip_numbering),
         tags=args.tags,
         images_dir_override=images_dir_override,
+        draft_title=args.draft_title,
+        publish_at=args.publish_at,
+        force_numbering=args.force_numbering,
     )
 
     print("Created draft:", result.get("id", result))

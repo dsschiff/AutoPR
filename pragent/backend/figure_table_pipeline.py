@@ -65,7 +65,8 @@ def run_figure_extraction(pdf_path: str, base_work_dir: str, model_path: str) ->
         extract_and_save_layout_components(
             image_path=path,
             model_path=model_path,
-            save_base_dir=page_crop_dir
+            save_base_dir=page_crop_dir,
+            device="cpu",
         )
 
     tqdm.write(f"[*] All cropped results have been saved to: {cropped_results_dir}")
