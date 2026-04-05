@@ -1,0 +1,56 @@
+AI governance is pulling us in 5 directions at once: centralized vs. decentralized, robust vs. minimal enforcement, adaptive vs. enduring rules. My new work explores how aviation, climate, and open-source models might guide us through this complexity 🧵 [LINK]
+
+---
+
+The challenge: balancing competing tensions in AI regulation
+
+• Centralized vs. decentralized control
+• Robust vs. minimal enforcement  
+• Adaptive vs. enduring rules
+• Private leadership vs. shared governance
+• Narrow vs. broad societal goals
+
+[Attach image: img_0.jpg]
+
+---
+
+I adapt lessons from 4 existing governance models:
+
+✈️ Aviation: Centralized, safety-first, but costly
+🌱 Organic food: Decentralized, private-driven, inconsistent
+🌍 Climate: Shared, flexible, but weak enforcement
+💻 Open-source: Collaborative, adaptive, but fragile
+
+[Attach image: img_1.jpg]
+
+---
+
+Current reality: fragmentation everywhere
+
+• EU centralizing with AI Act; US taking decentralized approach
+• Monitoring ranges from strict compliance to voluntary audits
+• Tech firms dominate decisions while public input gets sidelined
+
+---
+
+The wildcard? AI's pace itself. Generative AI caught policymakers off guard. A major crisis—deepfake election scandal—could force rapid regulation. Meanwhile, public demand for accountability grows 📈
+
+---
+
+The path forward suggests adaptive, hybrid models combining:
+
+• Centralized safety oversight (aviation-style)
+• Decentralized innovation hubs (open-source style)
+• Broad societal goals (climate-style)
+
+Experimentation will be key 🔬
+
+---
+
+Why this matters: AI governance shapes society itself. Done right, it addresses inequality and climate impact. Done wrong, it entrenches power imbalances and amplifies harms. The stakes are enormous
+
+---
+
+For policy practitioners and governance teams: What trade-offs would you prioritize? Centralization or flexibility? Private leadership or public control?
+
+Paper: [LINK] @GRAIL_center @purduepolsci #AIGovernance #ResponsibleAI #TechPolicy

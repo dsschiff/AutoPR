@@ -1,0 +1,25 @@
+🚨 AI is revolutionizing radiology, but governance frameworks remain in the "Wild West." Our new research, published in AIES 2025, reveals how clinicians are stepping up as governance entrepreneurs to address critical gaps in AI oversight.
+
+https://doi.org/10.1609/aies.v8i2.36608
+
+• We interviewed 22 experts across the US and UK—radiologists, oncologists, regulators—to map the current state of AI governance in healthcare
+
+• Key finding: "Moral crumple zones" emerge when clinicians are held accountable for AI errors they cannot control, like vendor-built algorithms that misdiagnose based on clinical data
+
+➤ The governance landscape operates across multiple layers—from federal regulations (FDA, MHRA) to local hospital policies—but implementation varies dramatically based on resources and expertise
+
+➤ Some hospitals rigorously validate AI tools with their own patient data, while others deploy off-the-shelf algorithms without safeguards, exposing patients to AI "drift"
+
+✅ Clinicians are forming grassroots committees to monitor AI performance, but these efforts are typically underfunded and voluntary
+
+✅ Our proposed solution: a hybrid governance model combining standardized national guidelines with localized oversight and dedicated funding for underserved institutions
+
+For policy practitioners and governance teams: effective AI governance requires both consistency and flexibility. Training healthcare staff in AI literacy is essential to prevent blind trust in vendor claims.
+
+What governance priorities matter most to you—standardization, local adaptation, or performance monitoring?
+
+[Add coauthors] | [Add funder]
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #Healthcare #AIethics #TechPolicy #ClinicalAI
+[Optional: tag journal/outlet here]

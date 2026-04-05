@@ -1,0 +1,42 @@
+AI governance faces fundamental tensions: centralized vs. decentralized control, robust vs. minimal enforcement, adaptive vs. enduring rules. My new work explores how aviation, climate, and open-source models might guide us 🧵 [LINK]
+
+---
+
+The challenge: balancing competing forces in AI regulation
+
+• Centralized vs. decentralized control
+• Robust vs. minimal enforcement
+• Adaptive vs. enduring rules  
+• Private leadership vs. shared governance
+• Narrow vs. broad societal goals
+
+[Attach image: img_0.jpg]
+
+---
+
+I examine 4 governance models for lessons:
+
+✈️ Aviation: Centralized, safety-first, costly
+🌱 Organic food: Decentralized, private-driven, inconsistent
+🌍 Climate: Shared, flexible, weak enforcement
+💻 Open-source: Collaborative, adaptive, fragile
+
+[Attach image: img_1.jpg]
+
+---
+
+Today's reality: fragmentation dominates. EU centralizing with AI Act; US going decentralized. Monitoring varies from strict compliance to voluntary audits. Tech firms lead while public input lags
+
+---
+
+The wildcard: AI's breakneck pace. Generative AI blindsided policymakers. A crisis—like deepfake election interference—could trigger rapid regulation. Public accountability demands intensify
+
+---
+
+The way forward: adaptive, hybrid models combining centralized safety oversight (aviation-style), decentralized innovation (open-source), and broad societal goals (climate-style). Experimentation essential
+
+---
+
+For policy practitioners: What trade-offs matter most? Centralization or flexibility? Private leadership or public control? AI governance shapes society itself—the stakes couldn't be higher
+
+[LINK] @purduepolsci.bsky.social @GRAILcenter.bsky.social

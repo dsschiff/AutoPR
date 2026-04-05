@@ -1,0 +1,21 @@
+AI ethics education has grown rapidly since 2018, but are we effectively preparing the next generation to navigate real-world ethical dilemmas? Our systematic review of 1,667 research papers reveals both promise and significant challenges. [LINK]
+
+✅ Key findings from our analysis:
+
+• Programs focusing on broader societal issues (bias, fairness, privacy) show greater impact than narrow technical approaches
+• Most effective pedagogies are hands-on: case studies, group projects, and interactive storytelling
+• Critical assessment gap: While programs aim to develop ethical reasoning skills, few measure whether students actually learn these competencies
+
+➤ Major challenges include keeping pace with AI's rapid evolution, teaching abstract concepts to diverse audiences, and a shortage of trained educators.
+
+➤ The field needs better tools to measure behavioral impact, integration across all education levels, and stronger alignment between teaching goals and assessment practices.
+
+For policy practitioners and governance teams: This research suggests we need more formative assessment approaches and cross-disciplinary integration to build truly effective AI ethics education.
+
+Curious what you're seeing in your organizations—does this match your experience with ethics training?
+
+[Add coauthors] | GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIethics #Education #TechPolicy #AIeducation
+
+[Attach image: img_1.jpg]

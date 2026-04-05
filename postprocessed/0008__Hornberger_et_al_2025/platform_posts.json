@@ -1,0 +1,72 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "How do we assess AI literacy at scale? A new 5-minute test shows promise 🧵\n\nAILIT-S delivers 91% accuracy of longer assessments in <5 minutes. Validated with 1,465 students across US, Germany & UK.\n\n[LINK]\n\n@GRAIL_center @purduepolsci",
+        "image": null
+      },
+      {
+        "text": "The challenge: existing AI literacy tests take too long for practical use in classrooms or large studies.\n\nThe solution: researchers distilled a 28-item assessment down to 10 key items without sacrificing validity.",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "AILIT-S covers 5 core themes:\n• What is AI?\n• What can AI do? \n• How does AI work?\n• How do people perceive AI?\n• How should AI be used?\n\nEmphasis on technical understanding—how AI actually functions.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Results suggest strong performance:\n✅ ~5 minutes vs 12 minutes for full test\n✅ 91% congruence with original assessment\n✅ Effective for group comparisons & program evaluation",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "Trade-offs to consider: shorter test means lower reliability (α = 0.61 vs 0.74).\n\nBest for group trends, not individual diagnosis. Perfect for scaling education research.",
+        "image": null
+      },
+      {
+        "text": "Why this matters: AILIT-S could democratize AI literacy assessment.\n\nTime-efficient tools enable larger studies, better program evaluation, and more accessible research across institutions. 📊",
+        "image": null
+      },
+      {
+        "text": "Current study focused on Western university students. Future work could explore workplace settings, non-Western contexts, and cultural factors in AI literacy.",
+        "image": null
+      },
+      {
+        "text": "For researchers & educators working on AI literacy: what assessment challenges are you facing? Does a 5-minute tool match your needs?\n\n[LINK]\n\n#AILiteracy #AIGovernance #ResponsibleAI #EdTech",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "How do we assess AI literacy at scale? New research introduces AILIT-S, a 5-minute test that maintains 91% accuracy of longer assessments. [LINK]\n\n➤ The challenge: Existing AI literacy tests are too time-intensive for practical classroom use or large-scale studies\n\n➤ The innovation: Researchers distilled a robust 28-item assessment down to 10 key items, validated with 1,465 students across the US, Germany, and UK\n\n➤ Core coverage: The test spans five themes from \"What is AI?\" to \"How should AI be used?\" with emphasis on technical understanding\n\nKey findings suggest strong performance:\n✅ Completion time: ~5 minutes vs 12 minutes for full assessment\n✅ Validity: 91% congruence with original test\n✅ Application: Highly effective for group comparisons and program evaluation\n\nTrade-offs to consider: The shorter format means slightly lower reliability (Cronbach's α = 0.61 vs 0.74). Best suited for group trends rather than individual diagnosis.\n\nFor education researchers and policy practitioners: this tool could democratize AI literacy assessment, enabling larger studies and more accessible program evaluation across institutions.\n\nCurrent work focused on Western university contexts. Future research could explore workplace applications and cross-cultural validation.\n\n[Add coauthors] | [Add funder]\n\nGRAIL Center | Purdue University\n\n#AILiteracy #AIGovernance #ResponsibleAI #EdTech #HigherEducation #TechPolicy",
+    "images": [
+      "img_2.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "How do we assess AI literacy at scale? New research introduces a 5-minute test with promising results 🧵\n\nAILIT-S shows 91% accuracy of longer assessments. Validated with 1,465 students across US, Germany & UK.\n\n[LINK]\n\n@GRAILcenter.bsky.social @purduepolsci.bsky.social",
+        "image": null
+      },
+      {
+        "text": "The problem: existing AI literacy assessments take too long for practical classroom use.\n\nThe approach: researchers distilled a 28-item test down to 10 key items without losing validity.",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "AILIT-S covers 5 themes:\n• What is AI?\n• What can AI do?\n• How does AI work?\n• How do people perceive AI? \n• How should AI be used?\n\nStrong focus on technical understanding.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Results suggest strong performance:\n✅ ~5 minutes vs 12 for full test\n✅ 91% congruence with original\n✅ Effective for group analysis\n\nTrade-off: lower reliability (α = 0.61 vs 0.74). Best for trends, not individual diagnosis.",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "Why this matters: time-efficient tools enable larger studies and better program evaluation.\n\nCurrent work focused on Western students. Future research could explore workplace settings and cross-cultural contexts.",
+        "image": null
+      },
+      {
+        "text": "For researchers working on AI literacy: what assessment challenges are you seeing? Does a 5-minute approach fit your needs?\n\n[LINK]\n\n#AILiteracy #AIGovernance #ResponsibleAI",
+        "image": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "AI systems decide hiring, loans, healthcare. But who's auditing the auditors? 🤖\n\nOur new study in Big Data & Society explores AI ethics auditing—who does it, how it works, and what's missing.\n\nhttps://doi.org/10.1177/20539517241299732 🧵",
+        "image": null
+      },
+      {
+        "text": "We interviewed 34 AI ethics auditors across 23 organizations in 7 countries to understand this rapidly evolving field.\n\nThink financial audits, but for AI: planning scope, validating models, analyzing risks, and reporting findings. 📊",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "What's driving the AI auditing boom?\n\n🔹 Regulation (EU AI Act, NIST frameworks)\n🔹 Reputation risk (avoiding biased AI headlines)\n🔹 Competitive advantage (trustworthy AI as strategy)\n\nThe ecosystem includes internal teams, Big Four firms, and specialized startups.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Key finding: Most audits focus narrowly on technical metrics like bias and accuracy.\n\nBroader socio-technical issues—how AI impacts vulnerable communities—often get sidelined.\n\nAnd external reporting? Almost nonexistent. Transparency remains a major gap. 📈",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "The challenges auditors face:\n\n• Regulatory ambiguity (laws are vague or evolving)\n• Data gaps (poor documentation/governance)\n• Interdisciplinary friction (tech, legal, leadership misalignment)\n\nYet auditors are building the ecosystem from scratch.",
+        "image": "img_3.jpg"
+      },
+      {
+        "text": "Despite hurdles, AI ethics auditors are ecosystem builders:\n\n✅ Translating vague regulations into actionable frameworks\n✅ Pushing organizations to improve AI governance\n✅ Shaping best practices for emerging field\n\nBut gaps remain in stakeholder engagement and standardization."
+      },
+      {
+        "text": "The stakes are high. AI influences who gets hired, who gets loans, who receives healthcare.\n\nWithout robust, transparent audits, we risk perpetuating biases and undermining trust in AI systems.\n\nThe path forward requires clearer guidelines and public accountability."
+      },
+      {
+        "text": "For AI governance teams and policy practitioners: What's the biggest challenge—technical gaps, regulatory clarity, or stakeholder engagement?\n\nPaper: https://doi.org/10.1177/20539517241299732\n\n@GRAIL_center @purduepolsci #AIGovernance #ResponsibleAI\n\n[Optional: tag journal/ou"
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "AI systems are making critical decisions about hiring, loans, and healthcare—but who's ensuring these systems are fair and accountable? Our new research in Big Data & Society examines the rapidly emerging field of AI ethics auditing. https://doi.org/10.1177/20539517241299732\n\n🔍 We interviewed 34 AI ethics auditors across 23 organizations in 7 countries to understand how this field is developing. Think of AI ethics audits as borrowing from financial audits: planning scope, validating models, analyzing risks, and reporting findings.\n\n➤ What's driving the boom? Regulatory pressure (EU AI Act, NIST frameworks), reputation risk management, and the competitive advantage of trustworthy AI.\n\n➤ The ecosystem includes internal audit teams, Big Four consulting firms, and specialized AI ethics startups—each bringing different approaches and capabilities.\n\n• Key finding: Most audits focus narrowly on technical metrics like bias detection and model accuracy, while broader socio-technical impacts on vulnerable communities often get overlooked.\n\n• Major gap: External reporting is almost nonexistent, limiting transparency and public accountability.\n\n✅ Despite challenges like regulatory ambiguity and data governance gaps, auditors are building the ecosystem from scratch—translating vague regulations into actionable frameworks and pushing organizations toward better AI governance.\n\nFor AI governance teams and policy practitioners: The stakes are high. Without robust, transparent auditing practices, we risk perpetuating systemic biases and undermining public trust in AI systems.\n\nGRAIL Center | Purdue University\n\n#AIGovernance #ResponsibleAI #AIethics #TechPolicy #AIRegulation #DigitalGovernance\n\n[Optional: tag journal/outlet here]",
+    "images": [
+      "img_1.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "AI systems decide who gets hired, who gets loans, who receives healthcare. But who's auditing the AI? 🤖\n\nOur new study explores the emerging field of AI ethics auditing—the people and processes trying to make AI accountable.\n\nhttps://doi.org/10.1177/20539517241299732 🧵",
+        "image": null
+      },
+      {
+        "text": "We interviewed 34 AI ethics auditors across 23 organizations in 7 countries. Published in Big Data & Society.\n\nThe field borrows from financial auditing: planning, validating, analyzing risks, reporting. But it's still figuring out what success looks like. 📊",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "What's driving AI auditing growth?\n\n🔹 Regulation (EU AI Act, NIST frameworks)\n🔹 Reputation management (avoiding biased AI headlines)\n🔹 Competitive strategy (trustworthy AI advantage)\n\nThe ecosystem spans internal teams, Big Four firms, specialized startups.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Key finding: Most audits focus narrowly on technical metrics.\n\nBroader impacts on vulnerable communities? Often sidelined.\nPublic reporting of audit results? Almost nonexistent.\n\nTransparency and stakeholder engagement remain major gaps. 📈",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "Auditors face regulatory ambiguity, data governance gaps, and interdisciplinary friction between tech, legal, and leadership teams.\n\nYet they're ecosystem builders—translating vague laws into actionable frameworks and pushing organizations toward better AI governance.",
+        "image": "img_3.jpg"
+      },
+      {
+        "text": "The stakes: AI influences fundamental life outcomes. Without robust, transparent audits, we risk perpetuating biases and undermining trust.\n\nFor governance teams: What's your biggest auditing challenge—technical gaps, regulatory clarity, or stakeholder engagement?\n\nhttps://doi.org/10.1177/205395"
+      }
+    ]
+  },
+  "images_dir": "D:\\Dropbox\\Documents\\Academics\\Purdue\\GitHub\\AutoPR\\outputs\\0000__Schiff_et_al_2025\\img"
+}

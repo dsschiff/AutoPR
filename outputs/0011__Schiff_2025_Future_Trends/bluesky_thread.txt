@@ -1,0 +1,46 @@
+AI governance faces 5 fundamental tensions: centralized vs. decentralized control, robust vs. minimal enforcement, adaptive vs. enduring rules. How do we navigate these trade-offs? 🤖
+
+Our analysis draws lessons from aviation, climate & open-source governance 👇
+
+http://dx.doi.org/10.2139/ssrn.534
+
+[Attach image: img_0.jpg]
+
+---
+
+We examined 4 governance models to understand the possibilities:
+
+✈️ Aviation: Centralized, safety-focused, but expensive
+🌱 Organic standards: Decentralized, private-led, inconsistent
+🌍 Climate policy: Shared, flexible, weak enforcement
+💻 Open-source: Collaborative, adaptive, fragile
+
+---
+
+Current AI governance shows fragmentation everywhere:
+
+• EU centralizing with AI Act
+• US pursuing decentralized approaches
+• Monitoring ranges from strict to voluntary
+• Tech firms drive decisions while public input lags
+
+The pace of AI development only complicates things further.
+
+---
+
+Results suggest hybrid models combining:
+• Centralized safety oversight
+• Decentralized innovation spaces
+• Broad societal goal integration
+
+Experimentation across jurisdictions will be essential. Published in Handbook on the Global Governance of AI.
+
+---
+
+AI governance will shape society—addressing inequality and climate impact if done right, entrenching power imbalances if done wrong.
+
+What governance trade-offs matter most to you? For policy practitioners and researchers.
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social
+
+http://dx.doi.org/10

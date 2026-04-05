@@ -1,0 +1,101 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "🚨 AI governance is fragmented. Over 500 standards, overlapping frameworks, contradictory regulations create a maze for organizations.\n\nBut there's a roadmap to harmonize this and build human-centered AI governance 🧵\n\nhttps://link.springer.com/rwe/10.1007/978-981-97-8440-0_82",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "🤔 The core problem: AI advances at breakneck speed, but governance tools lag behind in fragmented systems.\n\nKey challenges:\n• Redundancy & overlap\n• Decision paralysis \n• Ethical concepts lost in translation\n• Geopolitical divides",
+        "image": null
+      },
+      {
+        "text": "Challenge 1: Translating fairness, transparency, well-being into actionable standards is HARD.\n\nWhy? These values are context-dependent and contested. Standards risk oversimplifying or \"ethics-washing\" - leaving structural inequities unaddressed.",
+        "image": null
+      },
+      {
+        "text": "Challenge 2: Voluntary standards dominate without enforcement.\n\nOrganizations cherry-pick compliance, creating superficial audits and reputational signaling instead of meaningful accountability.",
+        "image": null
+      },
+      {
+        "text": "Challenge 3: The \"15 competing standards\" problem.\n\nProliferation leads to decision paralysis. Organizations face patchwork frameworks without clear guidance on priorities or integration.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Challenge 4: The pacing problem.\n\nAI evolves faster than governance. Standards take years to develop, but AI risks emerge in months. Result? Obsolete standards that fail to keep up.",
+        "image": null
+      },
+      {
+        "text": "🚀 The solution: Human-centered, harmonized, adaptive AI governance.\n\nOur roadmap starts with global collaboration among ISO, IEEE, OECD. Use crosswalks to map overlaps and reduce redundancy.",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "Adopt a layered approach:\n• High-level frameworks (NIST AI RMF)\n• Domain-specific guidelines (IEEE 7010 for well-being)\n• Operational tools (model cards)\n\nThis ensures scalability and adaptability.",
+        "image": null
+      },
+      {
+        "text": "Make governance agile:\n✅ Living documents that evolve with AI tech\n✅ Rapid-response taskforces for real-time updates  \n✅ Regulatory sandboxes to test compliance frameworks",
+        "image": null
+      },
+      {
+        "text": "Strengthen auditing ecosystems:\n• Train independent accreditation bodies\n• Promote transparency in audit results\n• Use practical tools like datasheets and checklists to bridge principles-practice gap",
+        "image": "img_3.jpg"
+      },
+      {
+        "text": "Finally: Embed diverse stakeholder voices in every step.\n\nFrom marginalized communities to Global South perspectives - inclusive councils ensure AI works for everyone. 🌍\n\n@GRAIL_center @purduepolsci\n\nhttps://link.springer.com/rwe/10.1007/978-981-97-8440-0_82-1\n\n#AIGovernanc",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "🚨 AI governance is in crisis. Over 500 fragmented standards, overlapping frameworks, and contradictory regulations create a compliance maze for organizations. Published in the Handbook of Human-Centered Artificial Intelligence, our analysis reveals a path forward. https://link.springer.com/rwe/10.1007/978-981-97-8440-0_82-1\n\n🤔 The core challenges:\n\n➤ **Translation gaps**: Converting ethical concepts like fairness and transparency into actionable standards risks oversimplification or \"ethics-washing\"\n\n➤ **Voluntary compliance**: Without enforcement, organizations cherry-pick standards, creating superficial audits instead of accountability\n\n➤ **Decision paralysis**: The \"15 competing standards\" problem leaves organizations without clear guidance\n\n➤ **Pacing mismatch**: Standards take years to develop while AI risks emerge in months\n\n➤ **Geopolitical fragmentation**: Divergent approaches across EU, US, China make global alignment nearly impossible\n\n🚀 **Our roadmap for human-centered AI governance:**\n\n✅ **Harmonize globally**: Collaborate across ISO, IEEE, OECD using crosswalks to reduce redundancy\n\n✅ **Layer strategically**: High-level frameworks → domain guidelines → operational tools\n\n✅ **Build agility**: Living documents, rapid-response taskforces, regulatory sandboxes\n\n✅ **Strengthen auditing**: Independent accreditation, transparency, practical implementation tools\n\n✅ **Center stakeholders**: Include marginalized communities, Global South voices, citizen assemblies\n\nThe stakes are high: harmonized governance could transform AI into a trustworthy societal tool, while fragmentation risks ethics-washing and widening inequities. For policy practitioners, governance teams, and org leaders - the time to act is now.\n\nGRAIL Center | Purdue University\n\n#AIGovernance #ResponsibleAI #AIethics #TechPolicy #Standards #HumanCenteredAI\n\n[Optional: tag journal/outlet here]",
+    "images": [
+      "img_2.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "🚨 AI governance is fragmented chaos. Over 500 standards, overlapping frameworks, contradictory regulations create a maze.\n\nBut there's a roadmap to harmonize this and build human-centered AI governance 🧵\n\nhttps://link.springer.com/rwe/10.1007/978-981-97-8440-0_82-1",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "🤔 Core problem: AI advances rapidly, but governance lags in fragmented systems.\n\nChallenges:\n• Redundancy & overlap\n• Decision paralysis\n• Ethical concepts lost in translation\n• Geopolitical divides",
+        "image": null
+      },
+      {
+        "text": "Challenge 1: Translating fairness, transparency into actionable standards is hard.\n\nThese values are context-dependent. Standards risk oversimplifying or \"ethics-washing\" - leaving structural inequities unaddressed.",
+        "image": null
+      },
+      {
+        "text": "Challenge 2: Voluntary standards without enforcement.\n\nOrganizations cherry-pick compliance, creating superficial audits instead of meaningful accountability.",
+        "image": null
+      },
+      {
+        "text": "Challenge 3: The \"15 competing standards\" problem.\n\nProliferation creates decision paralysis. Organizations face patchwork frameworks without clear guidance.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "🚀 The solution: Human-centered, harmonized, adaptive governance.\n\nOur roadmap: global collaboration among ISO, IEEE, OECD. Use crosswalks to map overlaps and reduce redundancy.",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "Layered approach:\n• High-level frameworks (NIST AI RMF)\n• Domain guidelines (IEEE 7010)\n• Operational tools (model cards)\n\nEnsures scalability and adaptability.",
+        "image": null
+      },
+      {
+        "text": "Make governance agile:\n✅ Living documents evolving with tech\n✅ Rapid-response taskforces\n✅ Regulatory sandboxes for testing",
+        "image": null
+      },
+      {
+        "text": "Strengthen auditing:\n• Independent accreditation bodies\n• Transparent audit results\n• Practical tools bridging principles-practice gap",
+        "image": null
+      },
+      {
+        "text": "Embed diverse stakeholder voices throughout.\n\nFrom marginalized communities to Global South perspectives - ensure AI works for everyone. 🌍\n\n@purduepolsci.bsky.social @GRAILcenter.bsky.social\n\nhttps://link.springer.com/rwe/10.1007/978-981-97-8440-0_82-1\n\n[Optional: tag journal/outlet here]",
+        "image": null
+      }
+    ]
+  },
+  "images_dir": "D:\\Dropbox\\Documents\\Academics\\Purdue\\GitHub\\AutoPR\\outputs\\0010__Schiff_2025_Strategies_for\\img"
+}

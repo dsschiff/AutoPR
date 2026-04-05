@@ -1,0 +1,84 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "Ever felt like your organization is a battlefield of hidden alliances? New research introduces Subcoalition Cluster Analysis (SCA)—a method to uncover the invisible factions driving organizational conflict 🧵\n\n[LINK]\n\n@GRAIL_center @purduepolsci",
+        "image": null
+      },
+      {
+        "text": "Organizations aren't monolithic. They're arenas of competing stakeholder goals. Yet most management models treat them as unified entities.\n\nReality? Teams form factions—subcoalitions—with aligned preferences. These fault lines drive decision-making chaos.",
+        "image": null
+      },
+      {
+        "text": "The problem? Subcoalitions are hard to observe and harder to model. Machine learning struggles with incomplete data and group dynamics complexity.\n\nEnter SCA: A computational breakthrough that maps hidden organizational fault lines.",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "How does SCA work? Think preference-based clustering that groups actors by maximizing shared utility.\n\n✅ Initialization: Seeds meaningful coalitions\n✅ Renegotiation: Fine-tunes alignment\n✅ Stability: Stops when no one wants to defect",
+        "image": null
+      },
+      {
+        "text": "Case study: Wikipedia's 2013 Visual Editor rollout sparked rebellion from veteran editors.\n\nSCA revealed two warring subcoalitions:\n🛠️ Technical design focus\n🌍 Cultural norms focus\n\nLeadership missed these divisions—leading to strategy disaster.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Baseball Hall of Fame voting (2009-2016): Writers debated inducting players linked to PEDs.\n\nSCA uncovered the rift:\n⚾ Pro-PED forgiveness\n⚾ Anti-PED purists\n\nThis schism grew, reinforcing decision-making silos over time.",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "SCA turns organizational chaos into clarity. Results suggest managers can:\n\n📊 Identify internal conflicts before they explode\n🎯 Tailor strategies to real divisions\n⚡ Avoid paralysis from hidden factional wars",
+        "image": null
+      },
+      {
+        "text": "But it's not just theory. SCA is computationally practical:\n💻 Handles incomplete data\n📈 Adapts across industries\n⚡ Fast enough for real-world applications\n\nWhat subcoalitions are hiding in your workplace?",
+        "image": null
+      },
+      {
+        "text": "For researchers and org leaders studying conflict dynamics—this method offers new insights into how factions form and persist.\n\nPaper: [LINK]\n\n[Add coauthors]\n\n#AIGovernance #ResponsibleAI #BehavioralTheory #ConflictResolution",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "Ever felt like your organization is a battlefield of hidden alliances and clashing interests? New research introduces Subcoalition Cluster Analysis (SCA)—a computational method to uncover the invisible factions driving organizational conflict. [LINK]\n\nOrganizations aren't monolithic entities. They're arenas of competing stakeholder goals where teams form factions—subcoalitions—with aligned preferences. These fault lines drive decision-making chaos, yet most management models treat organizations as unified.\n\n➤ The breakthrough: SCA maps hidden organizational divisions using preference-based clustering that groups actors by maximizing shared utility\n\n➤ Real-world validation: Wikipedia's 2013 Visual Editor rollout revealed two warring subcoalitions (technical vs. cultural focus), explaining why the initiative sparked rebellion from veteran editors\n\n➤ Practical applications: Baseball Hall of Fame voting analysis (2009-2016) uncovered persistent rifts between pro-PED forgiveness and anti-PED purist factions\n\nResults suggest SCA can help managers identify internal conflicts before they explode, tailor strategies to real divisions rather than assumptions, and avoid decision paralysis caused by hidden factional wars.\n\nThe method is computationally practical—handling incomplete data, adapting across industries, and running fast enough for real-world applications.\n\nFor researchers and organizational leaders studying conflict dynamics, this offers new insights into how factions form and persist within institutions.\n\n[Add coauthors] | [Add funder]\n\nGRAIL Center | Purdue University\n\n#AIGovernance #ResponsibleAI #BehavioralTheory #ConflictResolution #OrganizationalPsychology #DataScience",
+    "images": [
+      "img_0.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "Ever felt like your organization is a battlefield of hidden alliances? New research introduces Subcoalition Cluster Analysis (SCA)—a method to uncover invisible factions driving organizational conflict 🧵\n\n[LINK]\n\n@GRAILcenter.bsky.social @purduepolsci.bsky.social",
+        "image": null
+      },
+      {
+        "text": "Organizations aren't monolithic. They're arenas of competing goals where teams form factions—subcoalitions—with aligned preferences.\n\nMost models treat orgs as unified. Reality? These fault lines drive decision-making chaos.",
+        "image": null
+      },
+      {
+        "text": "The problem? Subcoalitions are hard to observe and model. Machine learning struggles with incomplete data and group dynamics.\n\nSCA breakthrough: Maps hidden fault lines through preference-based clustering.",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "How it works:\n✅ Seeds meaningful coalitions\n✅ Fine-tunes preference alignment\n✅ Stops when no one wants to defect\n\nResult? Stable, representative subcoalitions that explain conflict patterns.",
+        "image": null
+      },
+      {
+        "text": "Wikipedia 2013: Visual Editor rollout sparked veteran editor rebellion.\n\nSCA revealed two warring camps:\n🛠️ Technical design focus\n🌍 Cultural norms focus\n\nLeadership missed these divisions—strategy disaster followed.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Baseball Hall of Fame (2009-2016): PED-linked player debates.\n\nSCA uncovered persistent rift:\n⚾ Pro-forgiveness\n⚾ Anti-PED purists\n\nSchism grew, reinforcing silos over time.",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "Results suggest SCA helps managers:\n📊 Identify conflicts before explosion\n🎯 Tailor strategies to real divisions\n⚡ Avoid paralysis from hidden wars\n\nComputationally practical for real-world use.",
+        "image": null
+      },
+      {
+        "text": "For researchers and org leaders studying conflict—this method offers new insights into how factions form and persist.\n\nWhat subcoalitions are hiding in your workplace?\n\n[LINK]\n\n#AIGovernance #ResponsibleAI #ConflictResolution",
+        "image": null
+      }
+    ]
+  }
+}

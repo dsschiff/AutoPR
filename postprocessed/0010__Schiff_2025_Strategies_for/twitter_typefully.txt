@@ -1,0 +1,104 @@
+🚨 AI governance is fragmenting into 500+ overlapping standards and contradictory regulations
+
+Our new analysis maps the chaos and proposes a roadmap for human-centered AI governance that actually works 🧵
+
+[LINK]
+
+[Attach image: img_0.jpg]
+
+---
+
+The core problem: AI advances rapidly while governance lags behind in fragmented systems
+
+• Redundant frameworks create confusion
+• Ethical concepts get lost in translation
+• Voluntary standards lack enforcement teeth
+• Geopolitical divides block coordination
+
+---
+
+Challenge 1: Translating fairness, transparency, and well-being into actionable standards is genuinely hard
+
+These values are contested and context-dependent. Standards risk oversimplifying complex ethics or enabling "ethics-washing" without addressing structural issues
+
+---
+
+Challenge 2: Voluntary compliance dominates
+
+Without enforcement, organizations cherry-pick standards for reputational signaling rather than meaningful accountability. Superficial audits replace substantive change
+
+---
+
+Challenge 3: The "15 competing standards" problem creates decision paralysis
+
+Organizations face a patchwork of frameworks with no clear guidance on prioritization or integration
+
+[Attach image: img_1.jpg]
+
+---
+
+Challenge 4: The pacing problem is real
+
+Standards take years to develop, AI risks emerge in months. Result? Obsolete frameworks that can't keep up with technological and societal shifts
+
+---
+
+Challenge 5: Geopolitical fragmentation blocks progress
+
+EU, US, and China pursue divergent approaches. Cultural and institutional differences make global alignment nearly impossible
+
+---
+
+🚀 Our proposed solution: Human-centered, harmonized, adaptive governance
+
+Step 1: Global collaboration among ISO, IEEE, OECD using crosswalk tools to map overlaps and reduce redundancy
+
+[Attach image: img_2.jpg]
+
+---
+
+Step 2: Layered governance approach
+
+High-level frameworks (NIST AI RMF) → domain-specific guidelines (IEEE 7010) → operational tools (model cards)
+
+This ensures both scalability and adaptability across contexts
+
+---
+
+Step 3: Make governance agile
+
+• Living documents that evolve with tech
+• Rapid-response taskforces for real-time updates
+• Regulatory sandboxes to test frameworks in controlled environments
+
+---
+
+Step 4: Strengthen auditing ecosystems
+
+• Train independent accreditation bodies
+• Promote transparency in audit results
+• Use practical tools like datasheets to bridge principles and practice
+
+[Attach image: img_3.jpg]
+
+---
+
+Step 5: Embed diverse stakeholder voices throughout
+
+From marginalized communities to Global South perspectives—inclusive councils and citizen assemblies ensure AI works for everyone, not just tech elites
+
+[Attach image: img_4.jpg]
+
+---
+
+What's at stake: Harmonized governance could transform AI into a trustworthy tool for societal good
+
+But fragmented systems risk ethics-washing and widening inequities
+
+Curious what governance practitioners think—does this match what you're seeing?
+
+@GRAIL_center @purduepolsci
+
+#AIGovernance #ResponsibleAI #AIethics
+
+[LINK]

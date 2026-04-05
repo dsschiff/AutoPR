@@ -1,0 +1,78 @@
+Ever felt like your organization is a battlefield of hidden alliances? New research introduces Subcoalition Cluster Analysis (SCA)—a method to uncover the invisible factions driving organizational conflict 🧵
+
+[LINK]
+
+@GRAIL_center @purduepolsci
+
+---
+
+Organizations aren't monolithic. They're arenas of competing stakeholder goals. Yet most management models treat them as unified entities.
+
+Reality? Teams form factions—subcoalitions—with aligned preferences. These fault lines drive decision-making chaos.
+
+---
+
+The problem? Subcoalitions are hard to observe and harder to model. Machine learning struggles with incomplete data and group dynamics complexity.
+
+Enter SCA: A computational breakthrough that maps hidden organizational fault lines.
+
+[Attach image: img_0.jpg]
+
+---
+
+How does SCA work? Think preference-based clustering that groups actors by maximizing shared utility.
+
+✅ Initialization: Seeds meaningful coalitions
+✅ Renegotiation: Fine-tunes alignment
+✅ Stability: Stops when no one wants to defect
+
+---
+
+Case study: Wikipedia's 2013 Visual Editor rollout sparked rebellion from veteran editors.
+
+SCA revealed two warring subcoalitions:
+🛠️ Technical design focus
+🌍 Cultural norms focus
+
+Leadership missed these divisions—leading to strategy disaster.
+
+[Attach image: img_1.jpg]
+
+---
+
+Baseball Hall of Fame voting (2009-2016): Writers debated inducting players linked to PEDs.
+
+SCA uncovered the rift:
+⚾ Pro-PED forgiveness
+⚾ Anti-PED purists
+
+This schism grew, reinforcing decision-making silos over time.
+
+[Attach image: img_2.jpg]
+
+---
+
+SCA turns organizational chaos into clarity. Results suggest managers can:
+
+📊 Identify internal conflicts before they explode
+🎯 Tailor strategies to real divisions
+⚡ Avoid paralysis from hidden factional wars
+
+---
+
+But it's not just theory. SCA is computationally practical:
+💻 Handles incomplete data
+📈 Adapts across industries
+⚡ Fast enough for real-world applications
+
+What subcoalitions are hiding in your workplace?
+
+---
+
+For researchers and org leaders studying conflict dynamics—this method offers new insights into how factions form and persist.
+
+Paper: [LINK]
+
+[Add coauthors]
+
+#AIGovernance #ResponsibleAI #BehavioralTheory #ConflictResolution

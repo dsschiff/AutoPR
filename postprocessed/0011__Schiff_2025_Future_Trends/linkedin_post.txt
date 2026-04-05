@@ -1,0 +1,19 @@
+AI governance is pulling us in five directions at once, and we need better frameworks to navigate this complexity. My new research explores how lessons from aviation, climate policy, and open-source software might guide AI regulation. [LINK]
+
+✅ The core challenge: AI regulation faces fundamental tensions between centralized vs. decentralized control, robust vs. minimal enforcement, adaptive vs. enduring rules, private leadership vs. shared governance, and narrow vs. broad societal goals.
+
+➤ I analyze four existing governance models for insights:
+• Aviation: Centralized, safety-first approach but costly to implement
+• Organic food: Decentralized, private-driven but creates inconsistencies  
+• Climate policy: Shared governance, flexible but weak enforcement
+• Open-source software: Collaborative, adaptive but potentially fragile
+
+• Current reality shows fragmentation everywhere. The EU is centralizing with the AI Act while the US takes a decentralized, sector-specific approach. Monitoring ranges from strict compliance to voluntary audits, and tech firms dominate decisions while public input often gets sidelined.
+
+➤ The path forward suggests adaptive, hybrid models that combine centralized safety oversight (like aviation), decentralized innovation hubs (like open-source), and broad societal goals (like climate policy). Experimentation will be essential.
+
+Why this matters for policy practitioners and governance teams: AI governance will shape not just technology but society itself. Done right, it can address inequality and climate impact. Done wrong, it risks entrenching power imbalances.
+
+GRAIL Center | Purdue University
+
+[Attach image: img_0.jpg]

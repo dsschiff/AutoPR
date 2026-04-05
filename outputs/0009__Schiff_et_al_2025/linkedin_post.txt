@@ -1,0 +1,33 @@
+Are we failing to teach social responsibility in STEM education? New longitudinal research suggests we might be.
+
+https://doi.org/10.1186/s40594-025-00553-3
+
+📊 Key findings from our 5-year study of 124 Georgia Tech STEM students:
+
+✅ Professional Connectedness scores dropped significantly (5.65 → 5.43, p < 0.001)
+✅ Students increasingly prioritized salary over societal impact as career motivators
+✅ Self-efficacy to drive social change declined over time
+
+But here's what's fascinating: Students DID grow in social awareness—just not from their formal STEM education.
+
+➤ The biggest drivers were informal activities: peer discussions, family conversations, and self-guided exploration
+➤ Meanwhile, STEM courses were described as too technical, disconnected from societal dimensions, and career-focused rather than impact-focused
+
+Published in International Journal of STEM Education, this research highlights a critical gap. STEM professionals shape everything from AI systems to climate solutions. If we're not embedding social responsibility into the pipeline, how can we expect future leaders to prioritize societal impact?
+
+• The path forward requires integrating ethics into core curricula
+• Leveraging peer-based learning approaches that actually work
+• Connecting coursework to real-world societal challenges
+• Rethinking what "STEM readiness" truly means in the 21st century
+
+For policy practitioners, governance teams, and educators: technical competence without social consciousness isn't enough anymore.
+
+[Add coauthors] | [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #STEMEducation #EthicsInSTEM #TechPolicy #EducationPolicy
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_1.jpg]

@@ -1,0 +1,25 @@
+Organizations aren't unified entities—they're arenas of competing stakeholder goals and hidden factions. Our new research in Management Science introduces Subcoalition Cluster Analysis (SCA), a computational method to uncover the invisible coalitions driving organizational conflict. https://pubsonline.informs.org/doi/10.1287/mnsc.2020.00013
+
+Most management models treat organizations as monolithic, but reality is messier. Teams form subcoalitions with aligned preferences, creating fault lines that drive decision-making chaos. These divisions are hard to observe and even harder to model with traditional methods.
+
+➤ SCA works like a smarter, preference-based clustering algorithm, grouping organizational actors by maximizing shared utility
+➤ Unlike traditional methods that assume external factors drive preferences, SCA shows how coalitions form organically from shared goals
+➤ Built for messy real-world data with incomplete information
+
+Two compelling case studies demonstrate SCA's power:
+
+• Wikipedia's 2013 Visual Editor rollout sparked rebellion from veteran editors. SCA revealed two warring subcoalitions—one focused on technical design, another on cultural norms. Leadership missed these divisions, leading to strategic disaster.
+
+• Baseball Hall of Fame voting (2009-2016) on players linked to PEDs. SCA uncovered a growing rift between pro-PED forgiveness and anti-PED purist coalitions, showing how schisms reinforced decision-making silos over time.
+
+For managers and governance practitioners, SCA offers practical benefits: identify and anticipate internal conflicts, tailor strategies to real divisions rather than assumptions, and avoid paralysis from hidden factional wars.
+
+[Add coauthors] | [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #OrganizationalBehavior #DataScience #ConflictResolution #TechPolicy
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_0.jpg]

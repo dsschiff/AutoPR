@@ -1,0 +1,50 @@
+The AI job market is evolving beyond coding. Employers now demand AI ethics and governance skills at unprecedented rates. Our analysis of 4M+ job postings from 2018-2023 reveals what's driving this shift 🧵
+
+https://doi.org/10.1109/TTS.2025.3567143
+
+[Attach image: img_1.jpg]
+
+---
+
+We're seeing an "AI skills gap"—a shortage of professionals equipped with both technical expertise AND the ability to handle ethical dilemmas and regulatory challenges. AI is transforming industries, but with great power comes great responsibility 📊
+
+---
+
+Our study analyzed 4.4M+ AI-related job postings to uncover trends in demand for AI ethics (fairness, transparency) and AI governance (regulatory compliance, risk management). Published in IEEE Transactions on Technology and Society
+
+---
+
+Key finding: AI ethics ≠ AI governance. Employers seek distinct skills:
+
+🔹 Ethics: Data privacy, bias mitigation, critical thinking
+🔹 Governance: Risk management, policy development, leadership
+
+Both require interdisciplinary knowledge
+
+---
+
+Demand is surging 🚀 AI ethics roles grew from 35K in 2018 to 109K in 2022. Governance roles hit 96K in 2022. Even as overall AI hiring dipped in 2023, these roles remained stable. Results suggest sustained market need
+
+---
+
+Finance and Information industries dominate demand, with AI ethics/governance roles growing fastest there. Highly regulated sectors can't afford ethical lapses as AI adoption scales 🏦
+
+[Attach image: img_2.jpg]
+
+---
+
+What's driving alignment? New AI regulations demand compliance. Employers recognize public trust is critical for AI adoption. Universities race to create relevant programs. More than 100K professionals needed annually
+
+---
+
+AI ethics and governance aren't "nice-to-haves"—they're becoming non-negotiable pillars of responsible AI development. As industries adopt AI at scale, these roles will define how society benefits from this technology ⚖️
+
+---
+
+For policy practitioners, governance teams, and org leaders: curious what you're seeing in your hiring? Paper below 👇
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social
+
+https://doi.org/10.1109/TTS.2025.3567143
+
+[Optional: tag journal/outlet here]

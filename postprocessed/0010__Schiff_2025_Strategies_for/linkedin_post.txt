@@ -1,0 +1,31 @@
+AI governance is fragmenting into chaos. Our new analysis reveals over 500 overlapping standards, contradictory regulations, and voluntary frameworks that create more confusion than clarity. [LINK]
+
+🔍 The core challenges we identified:
+
+• Translation gap: Converting ethical concepts like fairness into actionable standards is genuinely difficult—these values are contested and context-dependent
+
+• Voluntary compliance: Without enforcement mechanisms, organizations cherry-pick standards for reputational signaling rather than meaningful accountability
+
+• Decision paralysis: The "15 competing standards" problem leaves organizations without clear guidance on prioritization
+
+• Pacing mismatch: Standards take years to develop while AI risks emerge in months, creating obsolete frameworks
+
+• Geopolitical fragmentation: Divergent approaches across regions block global coordination
+
+🚀 Our proposed solution: A human-centered, harmonized, and adaptive governance system with five key elements:
+
+➤ Global collaboration using crosswalk tools to map overlaps and reduce redundancy
+➤ Layered governance from high-level frameworks to operational tools
+➤ Agile approaches including living documents and regulatory sandboxes
+➤ Strengthened auditing with independent accreditation and transparency
+➤ Inclusive stakeholder engagement ensuring diverse voices guide decisions
+
+The stakes are high: harmonized governance could transform AI into a trustworthy tool for societal good, but fragmented systems risk ethics-washing and widening inequities.
+
+What governance strategies resonate with policy practitioners and org leaders working on AI implementation? [Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIethics #TechPolicy #Standards #HumanCenteredAI
+
+[Attach image: img_2.jpg]

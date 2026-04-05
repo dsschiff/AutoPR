@@ -1,0 +1,31 @@
+🚨 AI is reshaping the world—but how do we prepare the next generation to wield it ethically?
+
+Our systematic review of 1,667 research papers reveals that AI ethics education has exploded since 2018, but the field is still grappling with critical growing pains. Published in Computers and Education: Artificial Intelligence: https://www.sciencedirect.com/science/article/pii/S2666920X25000451
+
+🔑 Key findings from our analysis (2018-2023):
+
+➤ The most effective programs go beyond "rules for algorithms"—they tackle broader societal issues like bias, fairness, privacy, and social justice. Higher education leads with comprehensive curricula, but K-12 efforts are still catching up.
+
+➤ Pedagogy that works is hands-on: case studies, group projects, gaming, and storytelling. These methods engage students in real-world ethical dilemmas, making abstract principles tangible.
+
+➤ The assessment gap: While programs aim to develop ethical reasoning and communication skills, few actually measure whether students are learning. Summative assessments dominate, but formative feedback—the kind that drives real growth—remains rare.
+
+🚧 Major challenges we identified:
+• Keeping pace with AI's rapid evolution
+• Teaching abstract ethical concepts to diverse audiences  
+• Shortage of trained educators
+• Misalignment between teaching goals and assessment methods
+
+🛠️ What's needed: Tools that measure the behavioral impact of ethics education, integration across all educational levels, and funding for initiatives that prioritize formative assessments aligned with real-world skills.
+
+For policy practitioners, governance teams, and educators: How would you design AI ethics education for your context? What ethical dilemmas do you see as most urgent?
+
+[Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIEthics #Education #TechPolicy #Pedagogy
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_1.jpg]

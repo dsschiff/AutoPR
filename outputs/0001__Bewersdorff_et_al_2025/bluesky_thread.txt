@@ -1,0 +1,67 @@
+AI education isn't one-size-fits-all 🎯
+
+Our new study reveals how students' attitudes, interest, and knowledge shape their AI confidence—and identifies 3 distinct student profiles that need different approaches.
+
+https://www.sciencedirect.com/science/article/pii/S2666920X24001437
+
+🧵
+
+---
+
+We surveyed 1,465 students across the US, UK, and Germany to understand how cognitive (AI literacy), affective (interest/attitudes), and behavioral (usage) factors build AI self-efficacy.
+
+Published in Computers and Education: Artificial Intelligence 📊
+
+---
+
+Key findings suggest:
+
+✅ Using AI tools (like ChatGPT) boosts interest
+✅ Positive attitudes predict higher engagement
+✅ Interest acts as the bridge connecting attitudes, literacy, and confidence
+
+Our validated path model:
+
+[Attach image: img_0.jpg]
+
+---
+
+Using advanced modeling, we identified 3 student profiles:
+
+🚀 AI Advocates (48%): Tech-savvy, confident, excited
+🤔 Cautious Critics (21%): Skeptical, low confidence, minimal use
+⚖️ Pragmatic Observers (31%): Neutral attitudes, moderate interest
+
+[Attach image: img_1.jpg]
+
+---
+
+Demographics matter: AI Advocates are mostly male STEM students, while Cautious Critics are overrepresented in humanities and predominantly female.
+
+Access to AI education varies widely—Critics report the least exposure 📈
+
+---
+
+Implications: AI programs need tailored approaches:
+
+🚀 Advocates: Encourage critical thinking about ethical AI
+🤔 Critics: Demystify AI, make it relevant to non-technical fields
+⚖️ Observers: Use hands-on experiences to spark engagement
+
+---
+
+Results suggest AI literacy isn't just about knowledge—it's about fostering interest and building confidence. Without addressing these factors, we risk leaving entire student groups behind.
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social
+
+---
+
+How can educators better engage "Cautious Critics" and "Pragmatic Observers"?
+
+For policy practitioners and educators working on AI integration—curious what you're seeing?
+
+https://www.sciencedirect.com/science/article/pii/S2666920X24001437
+
+#AIGovernance #ResponsibleAI
+
+[Optional: tag journal/o

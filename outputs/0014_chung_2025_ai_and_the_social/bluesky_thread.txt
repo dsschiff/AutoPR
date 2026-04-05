@@ -1,0 +1,89 @@
+Can AI governance align with democratic principles? 🤖
+
+Our new paper examines how social contract theory—from Hobbes to Rawls—breaks down when applied to opaque algorithms that decide welfare, policing, and hiring.
+
+Published in AIES 2025 👇
+
+https://doi.org/10.1609/aies.v8i1.36575
+
+---
+
+The challenge: AI systems now make critical decisions affecting millions, yet they're often opaque, unaccountable, and centrally controlled.
+
+How does this square with democratic legitimacy? Are we creating an "algorithmic Leviathan"? ⚖️
+
+---
+
+We turned to social contract theory—the framework behind modern governance—to examine AI legitimacy.
+
+Classical theorists like Hobbes, Locke, and Rousseau assumed transparency and accountability. AI breaks these assumptions.
+
+---
+
+We identified three dimensions where AI governance fails:
+
+✅ Procedural (transparency + participation)
+✅ Moral-substantive (fairness + rights)
+✅ Recognitional (including affected communities)
+
+Current AI systems struggle on all fronts.
+
+[Attach image: img_0.jpg]
+
+---
+
+How do classical philosophers hold up against AI?
+
+• Hobbes: Works for clear authority, fails with diffuse AI harms
+• Locke: Requires "opt-out" options—impossible with pervasive algorithms
+• Rousseau: Direct participation? Not at AI scale 📊
+
+---
+
+• Rawls: Assumes transparency for fairness—but algorithms lack clarity
+• Nozick: Focuses on individual rights, misses collective harms like biased hiring models
+
+Classical theories weren't built for opaque, global systems. 🌍
+
+---
+
+The solution? A hybrid social contract model that remixes classical ideas:
+
+🔹 Hobbesian accountability
+🔹 Lockean rights protection  
+🔹 Rousseauian participation
+🔹 Rawlsian fairness
+🔹 Nozickian freedom from coercion
+
+[Attach image: img_1.jpg]
+
+---
+
+Practical fixes for AI governance:
+
+• Citizen assemblies for algorithmic oversight
+• Real-time transparency dashboards
+• Global cooperation (AI doesn't respect borders)
+• Participatory regulation of biased systems 🛠️
+
+---
+
+We also integrate critical perspectives—feminist and intersectional critiques—to address systemic discrimination in both historical institutions and algorithmic systems.
+
+AI governance needs pluralism, not one-size-fits-all ethics. 🌈
+
+---
+
+Why this matters: Algorithms aren't just tools—they're rulers mediating access to justice, jobs, and resources.
+
+Getting governance wrong risks deepening inequality and eroding democratic trust. @purduepolsci.bsky.social @GRAILcenter.bsky.social
+
+---
+
+Full paper: https://doi.org/10.1609/aies.v8i1.36575
+
+For policy practitioners and governance teams working on algorithmic accountability—curious what principles you think are missing?
+
+[Add coauthors] #AIGovernance #ResponsibleAI
+
+[Optional: tag journal/outlet here]

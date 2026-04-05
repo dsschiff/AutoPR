@@ -1,0 +1,30 @@
+AI governance is pulling us in five directions at once, creating unprecedented regulatory challenges. Our new analysis examines how lessons from aviation, climate policy, organic food standards, and open-source software can guide AI governance design.
+
+http://dx.doi.org/10.2139/ssrn.5343797
+
+✅ We identified key tensions shaping AI governance:
+• Centralized vs. decentralized control
+• Robust vs. minimal enforcement mechanisms
+• Adaptive vs. enduring regulatory frameworks
+• Private leadership vs. shared governance
+• Narrow vs. broad societal objectives
+
+➤ Current landscape shows clear fragmentation:
+The EU is centralizing through the AI Act while the US pursues decentralized, sector-specific approaches. Monitoring varies from strict compliance requirements to voluntary audits. Tech firms dominate decision-making while public input remains limited.
+
+➤ Our analysis suggests hybrid governance models that combine:
+• Centralized safety oversight (aviation-style)
+• Decentralized innovation hubs (open-source approach) 
+• Broad societal goal integration (climate policy framework)
+
+The stakes couldn't be higher. AI governance will shape not just technology development, but societal outcomes around inequality, climate impact, and democratic participation. Published in the Handbook on the Global Governance of AI.
+
+For policy practitioners, governance teams, and researchers working on responsible AI implementation—curious what governance trade-offs you're prioritizing in your work?
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #TechPolicy #AIEthics #PolicyResearch #DigitalGovernance
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_1.jpg]

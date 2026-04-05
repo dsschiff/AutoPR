@@ -1,0 +1,43 @@
+AI ethics education has exploded since 2018—but are we actually preparing students to navigate real-world ethical dilemmas? Our systematic review of 1,667 papers reveals a field full of promise but struggling with growing pains 🧵
+
+[LINK]
+
+---
+
+📚 We analyzed content, pedagogy, and assessment practices across AI ethics programs. The results suggest significant gaps between educational goals and actual learning outcomes
+
+[Attach image: img_0.jpg]
+
+---
+
+🔑 Programs focusing on broader societal issues—bias, fairness, privacy—show more impact than narrow "rules for algorithms" approaches. Higher-ed leads, but K-12 efforts are catching up
+
+[Attach image: img_1.jpg]
+
+---
+
+🎓 Most effective teaching methods are hands-on: case studies, group projects, gaming & storytelling. These make abstract ethical principles tangible for students
+
+---
+
+❌ The assessment gap: While programs aim to develop ethical reasoning skills, few actually measure whether students are learning. Summative assessments dominate, formative feedback is rare
+
+---
+
+🚧 Key challenges include keeping pace with AI's rapid evolution, teaching abstract concepts to diverse audiences, educator shortages, and misalignment between teaching goals and assessment
+
+[Attach image: img_2.jpg]
+
+---
+
+💡 What's needed: Better tools to measure behavioral impact, integration across all education levels, and policy support for formative assessments
+
+---
+
+For educators and policy practitioners working on AI governance: How do you think we should measure the real-world impact of ethics education? Paper below 👇
+
+[LINK]
+
+@GRAIL_center @purduepolsci
+
+#AIGovernance #ResponsibleAI #AIethics #Education

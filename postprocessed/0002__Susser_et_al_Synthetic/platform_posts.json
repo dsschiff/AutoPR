@@ -1,0 +1,58 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "Healthcare research is drowning in data but can't fully use it due to privacy laws and demographic gaps. Enter synthetic data—AI-generated datasets that promise privacy protection and inclusivity. But is it worth the risks? 🧵\n\n[LINK]",
+        "image": null
+      },
+      {
+        "text": "Synthetic data uses machine learning to create artificial datasets that mimic real-world patterns. The appeal is clear:\n\n✅ Privacy protection\n✅ Models rare diseases\n✅ Fills demographic gaps\n✅ Fuels AI innovation",
+        "image": null
+      },
+      {
+        "text": "But synthetic data comes with serious ethical concerns that we can't ignore 🚨\n\n• Accuracy issues for rare conditions\n• Potential privacy leaks\n• Bias amplification from flawed source data\n• Regulatory loopholes",
+        "image": null
+      },
+      {
+        "text": "The \"non-identifiable\" label could allow synthetic data to bypass key protections. And over-reliance might sideline real-world data diversity—deepening rather than solving equity issues.",
+        "image": null
+      },
+      {
+        "text": "The Hastings Center Report suggests synthetic data must complement, not replace, real-world data. We need:\n\n📊 Accuracy standards\n🔒 Privacy safeguards\n📋 Transparent policies\n💰 Investment in diverse datasets",
+        "image": null
+      },
+      {
+        "text": "Synthetic data could bridge healthcare gaps or deepen inequities. The choice is ours.\n\nFor AI governance researchers and policy practitioners: what safeguards do you think are most critical?\n\n[LINK]\n\n@GRAIL_center @purduepolsci",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "Healthcare research faces a paradox: we're data-rich but insight-poor. Privacy laws and demographic gaps prevent researchers from fully utilizing available datasets. Synthetic data—AI-generated datasets that mimic real-world patterns—promises a solution. But our new analysis in The Hastings Center Report reveals significant ethical challenges.\n\n[LINK]\n\n➤ The Promise: Synthetic data offers privacy protection, models rare diseases, and fills demographic gaps without exposing real patient information.\n\n➤ The Risks: Accuracy concerns for rare conditions, potential privacy leaks, bias amplification, and regulatory loopholes that could bypass key protections.\n\n➤ The Stakes: Over-reliance on synthetic data might sideline real-world diversity, potentially deepening rather than solving equity issues.\n\nOur analysis suggests synthetic data must complement, not replace, real-world datasets. This requires accuracy standards, robust privacy safeguards, transparent policies, and continued investment in diverse, representative data.\n\nFor governance teams and policy practitioners working on AI in healthcare: What safeguards do you see as most critical for responsible synthetic data use?\n\n[Add coauthors] | [Add funder]\n\nGRAIL Center | Purdue University\n\n#SyntheticData #AIGovernance #ResponsibleAI #HealthEquity #AIethics #TechPolicy",
+    "images": []
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "Healthcare research is drowning in data but can't use it due to privacy laws and demographic gaps. Synthetic data—AI-generated datasets—promises privacy protection and inclusivity. But our analysis reveals serious ethical risks 🧵\n\n[LINK]",
+        "image": null
+      },
+      {
+        "text": "Synthetic data uses machine learning to create artificial datasets mimicking real patterns. Benefits include:\n\n✅ Privacy protection\n✅ Rare disease modeling\n✅ Demographic gap filling\n✅ AI training fuel",
+        "image": null
+      },
+      {
+        "text": "But the risks are significant:\n\n• Accuracy issues for rare conditions\n• Potential privacy leaks\n• Bias amplification\n• Regulatory loopholes from \"non-identifiable\" labeling",
+        "image": null
+      },
+      {
+        "text": "Over-reliance could sideline real-world data diversity, deepening rather than solving equity issues. Our Hastings Center Report analysis suggests synthetic data must complement, not replace, real datasets.",
+        "image": null
+      },
+      {
+        "text": "We need accuracy standards, privacy safeguards, transparent policies, and investment in diverse real-world data.\n\nFor AI governance researchers: what safeguards seem most critical?\n\n[LINK]\n\n@GRAILcenter.bsky.social @purduepolsci.bsky.social",
+        "image": null
+      }
+    ]
+  }
+}

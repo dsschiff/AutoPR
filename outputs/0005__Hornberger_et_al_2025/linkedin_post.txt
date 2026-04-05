@@ -1,0 +1,30 @@
+Are university students prepared for an AI-driven future? Our new research in Computers in Human Behavior: Artificial Humans suggests significant gaps exist in AI literacy among tomorrow's professionals.
+
+https://www.sciencedirect.com/science/article/pii/S2949882125000167
+
+🌍 We conducted the first large-scale multinational assessment of AI literacy, surveying 1,465 students across Germany, the UK, and the US. Our study measured not just knowledge, but also confidence, attitudes, and prior experiences with AI.
+
+➤ Key findings reveal striking national differences:
+• Germany leads in actual AI knowledge, likely due to better educational integration
+• US students show highest self-confidence in AI skills
+• UK students express the most skepticism toward AI technologies
+
+🚨 Perhaps most concerning: confidence doesn't equal competence. High self-efficacy in the US often didn't align with actual AI knowledge. This overconfidence could lead to poor decision-making in technology-driven careers.
+
+📚 Over 70% of students across all countries haven't taken an AI-related course. Most learning happens informally through tools like ChatGPT, but few engage with foundational concepts or ethical considerations.
+
+✅ Ethics emerges as the least-covered topic in AI education, despite its critical importance for building public trust. Only 6.6% of students report substantial ethics coverage in their coursework.
+
+💡 Our research also validates a robust AI literacy assessment tool for global use, potentially reshaping how institutions benchmark and improve AI education worldwide.
+
+For organizations and policymakers: AI literacy represents a key competency gap that needs urgent attention. Future leaders require robust knowledge and critical thinking skills—not just confidence—to navigate an AI-driven world effectively.
+
+What's your experience with AI literacy gaps in your organization or field?
+
+GRAIL Center | Purdue University [Add coauthors] [Add funder]
+
+#AIGovernance #ResponsibleAI #AILiteracy #AIEducation #TechPolicy #FutureSkills
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_0.jpg]

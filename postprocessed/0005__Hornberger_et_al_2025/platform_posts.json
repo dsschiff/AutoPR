@@ -1,0 +1,80 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "New research across Germany, UK, and US reveals concerning gaps in AI literacy among university students 📊\n\nOver 70% haven't taken an AI course, yet they'll enter AI-driven careers\n\nOur findings suggest education isn't keeping pace 🧵\n\n[LINK]\n\n@GRAIL_center @purduepolsci",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "We surveyed 1,465 students on AI knowledge, confidence, attitudes, and experience\n\n🇩🇪 Germany leads in actual AI literacy\n🇺🇸 US shows highest confidence in AI skills\n🇬🇧 UK demonstrates most skepticism toward AI\n\nBut confidence ≠ competence",
+        "image": null
+      },
+      {
+        "text": "The confidence gap is striking 🤔\n\nUS students often overestimate their AI abilities compared to actual knowledge\n\nThis overconfidence could lead to poor decisions in tech careers\n\nGermany's approach balances competence with appropriate caution",
+        "image": null
+      },
+      {
+        "text": "AI literacy goes beyond coding 💡\n\nIt includes understanding ethics, limitations, and societal impacts\n\nYet ethics is the least-covered topic in AI courses\n\nOnly 6.6% of German students say ethics is addressed substantially",
+        "image": "img_3.jpg"
+      },
+      {
+        "text": "Where do students learn about AI? 📚\n\nMostly informal sources and tools like ChatGPT\n\n30% of German students never explore AI outside class\n\nOnly 3% of US students engage with AI daily\n\nInterest exists, but structured education lags",
+        "image": null
+      },
+      {
+        "text": "Our study also validated a robust AI literacy assessment tool for global use\n\nThis could help institutions benchmark and improve AI education worldwide\n\nBut results show we need tailored approaches—not one-size-fits-all solutions ⚖️",
+        "image": null
+      },
+      {
+        "text": "Key recommendations:\n\n✅ Bridge confidence-competence gaps with hands-on learning\n✅ Emphasize AI ethics in curricula\n✅ Fund comprehensive AI literacy programs\n✅ Move beyond surface-level AI tool use\n\nAI literacy is essential for future leaders",
+        "image": null
+      },
+      {
+        "text": "For education researchers and policy practitioners: How can we better prepare students for AI-driven careers?\n\nCurious what you're seeing in your contexts\n\n[LINK]\n\n#AILiteracy #AIGovernance #ResponsibleAI #AIinEducation",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "New multinational research reveals significant gaps in AI literacy among university students who will soon enter AI-driven careers. [LINK]\n\nOur study of 1,465 students across Germany, the UK, and the US found striking differences:\n\n🇩🇪 Germany leads in actual AI knowledge, likely due to better integration of AI coursework\n🇺🇸 US students show highest confidence in AI skills\n🇬🇧 UK students demonstrate the most skepticism toward AI\n\nThe concerning finding? Over 70% of students across all countries haven't taken an AI-related course, despite the technology's growing importance in virtually every field.\n\n➤ Confidence doesn't equal competence: US students often overestimate their AI abilities compared to actual knowledge\n➤ Ethics education lags: Only 6.6% of students say AI ethics is covered substantially in courses\n➤ Learning happens informally: Students rely on tools like ChatGPT rather than structured education\n\nFor education leaders and policymakers: We need comprehensive AI literacy programs that go beyond tool use to include ethics, limitations, and societal impacts. The future workforce depends on it.\n\n[Add coauthors] | GRAIL Center | Purdue University\n\n#AILiteracy #AIGovernance #ResponsibleAI #AIinEducation #TechPolicy #HigherEducation",
+    "images": [
+      "img_1.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "New research across Germany, UK, and US reveals concerning gaps in AI literacy among university students 📊\n\nOver 70% haven't taken an AI course, yet they'll enter AI-driven careers\n\nOur findings suggest education isn't keeping pace\n\n[LINK]\n\n@GRAILcenter.bsky.social @purduepolsci.bsky.social",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "We surveyed 1,465 students on AI knowledge, confidence, attitudes, and experience\n\n🇩🇪 Germany leads in actual AI literacy\n🇺🇸 US shows highest confidence in AI skills\n🇬🇧 UK demonstrates most skepticism toward AI\n\nBut confidence ≠ competence",
+        "image": null
+      },
+      {
+        "text": "The confidence gap is striking 🤔\n\nUS students often overestimate their AI abilities compared to actual knowledge\n\nThis overconfidence could lead to poor decisions in tech careers\n\nGermany's approach balances competence with appropriate caution",
+        "image": null
+      },
+      {
+        "text": "AI literacy goes beyond coding 💡\n\nIt includes understanding ethics, limitations, and societal impacts\n\nYet ethics is the least-covered topic in AI courses\n\nOnly 6.6% of German students say ethics is addressed substantially",
+        "image": "img_3.jpg"
+      },
+      {
+        "text": "Where do students learn about AI? 📚\n\nMostly informal sources and tools like ChatGPT\n\n30% of German students never explore AI outside class\n\nOnly 3% of US students engage with AI daily\n\nInterest exists, but structured education lags",
+        "image": null
+      },
+      {
+        "text": "Our study also validated a robust AI literacy assessment tool for global use\n\nThis could help institutions benchmark and improve AI education worldwide\n\nBut results show we need tailored approaches—not one-size-fits-all solutions ⚖️",
+        "image": null
+      },
+      {
+        "text": "Key recommendations:\n\n✅ Bridge confidence-competence gaps with hands-on learning\n✅ Emphasize AI ethics in curricula\n✅ Fund comprehensive AI literacy programs\n✅ Move beyond surface-level AI tool use\n\nAI literacy is essential for future leaders",
+        "image": null
+      },
+      {
+        "text": "For education researchers and policy practitioners: How can we better prepare students for AI-driven careers?\n\nCurious what you're seeing in your contexts\n\n[LINK]\n\n#AILiteracy #AIGovernance #ResponsibleAI #AIinEducation",
+        "image": null
+      }
+    ]
+  }
+}

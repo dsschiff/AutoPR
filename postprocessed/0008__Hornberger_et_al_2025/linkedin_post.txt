@@ -1,0 +1,26 @@
+How do we assess AI literacy at scale? New research introduces AILIT-S, a 5-minute test that maintains 91% accuracy of longer assessments. [LINK]
+
+➤ The challenge: Existing AI literacy tests are too time-intensive for practical classroom use or large-scale studies
+
+➤ The innovation: Researchers distilled a robust 28-item assessment down to 10 key items, validated with 1,465 students across the US, Germany, and UK
+
+➤ Core coverage: The test spans five themes from "What is AI?" to "How should AI be used?" with emphasis on technical understanding
+
+Key findings suggest strong performance:
+✅ Completion time: ~5 minutes vs 12 minutes for full assessment
+✅ Validity: 91% congruence with original test
+✅ Application: Highly effective for group comparisons and program evaluation
+
+Trade-offs to consider: The shorter format means slightly lower reliability (Cronbach's α = 0.61 vs 0.74). Best suited for group trends rather than individual diagnosis.
+
+For education researchers and policy practitioners: this tool could democratize AI literacy assessment, enabling larger studies and more accessible program evaluation across institutions.
+
+Current work focused on Western university contexts. Future research could explore workplace applications and cross-cultural validation.
+
+[Add coauthors] | [Add funder]
+
+GRAIL Center | Purdue University
+
+#AILiteracy #AIGovernance #ResponsibleAI #EdTech #HigherEducation #TechPolicy
+
+[Attach image: img_2.jpg]

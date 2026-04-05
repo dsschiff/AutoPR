@@ -1,0 +1,31 @@
+The AI job market is evolving beyond coding. Our analysis of 4.4M+ job postings from 2018-2023 reveals employers now demand AI ethics and governance skills at unprecedented rates.
+
+https://doi.org/10.1109/TTS.2025.3567143
+
+✅ Key findings from our study published in IEEE Transactions on Technology and Society:
+
+• AI ethics roles grew from 35K in 2018 to 109K in 2022
+• Governance roles hit 96K in 2022, following similar trajectory
+• Even as overall AI hiring dipped in 2023, these roles remained stable
+
+➤ Ethics vs. Governance: Distinct but complementary skill sets
+Ethics roles focus on data privacy, bias mitigation, and critical thinking. Governance roles emphasize risk management, policy development, and leadership. Both require interdisciplinary knowledge.
+
+➤ Industry leaders: Finance and Information sectors dominate demand
+Highly regulated industries are driving growth fastest—they can't afford ethical lapses as AI adoption scales.
+
+• More than 100K professionals needed annually
+• Many organizations struggle to find qualified talent
+• Significant opportunity for those entering the field
+
+Results suggest AI ethics and governance are becoming non-negotiable pillars of responsible AI development. As industries adopt AI at scale, these roles will define how society benefits from this powerful technology.
+
+For policy practitioners, governance teams, and organizational leaders—curious what you're seeing in your hiring processes?
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIEthics #TechPolicy #FutureOfWork #AIWorkforce
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_1.jpg]

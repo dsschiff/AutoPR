@@ -1,0 +1,53 @@
+Are university students ready for an AI-driven world? 🤔 Our study of 1,465 students across Germany, UK, and US reveals significant gaps in AI literacy among future professionals. Published in Computers in Human Behavior 🧵
+
+https://www.sciencedirect.com/science/article/pii/S29
+
+[Attach image: img_0.jpg]
+
+---
+
+🌍 This is the first large-scale cross-national assessment of AI literacy among university students. We measured knowledge, confidence, attitudes, and experiences. The results suggest striking differences between countries—and some concerning patterns.
+
+---
+
+📊 Germany leads in actual AI knowledge, outscoring UK and US students. The reason? Better integration of AI coursework in education. But the US shows highest self-confidence in AI skills, while UK students express the most skepticism toward AI.
+
+[Attach image: img_1.jpg]
+
+---
+
+🚨 Here's the concerning finding: Confidence doesn't equal competence. High self-efficacy in the US often didn't align with actual AI knowledge. This overconfidence could lead to poor decision-making in tech careers. Germany shows both competence and appropriate caution.
+
+---
+
+📚 Over 70% of students across all countries haven't taken an AI-related course. Germany leads with 26.5% participation, but that's still far from ideal. Most learning happens informally through tools like ChatGPT, but few dive deeper into foundational concepts.
+
+[Attach image: img_2.jpg]
+
+---
+
+🔧 Ethics emerges as the least-covered topic in AI courses, despite its critical importance. Only 6.6% of German students say ethics is addressed "a lot" in their coursework. This gap is concerning given ethics' role in building public trust in AI systems.
+
+[Attach image: img_3.jpg]
+
+---
+
+💡 Our study also validates a robust AI literacy assessment tool for global use. This could help institutions benchmark and improve AI education worldwide. But findings suggest we need tailored approaches—one size doesn't fit all cultures and educational systems.
+
+---
+
+🚀 Key recommendations:
+• Bridge confidence-competence gaps with hands-on learning
+• Fund comprehensive AI literacy programs
+• Emphasize ethics alongside technical skills
+• Move beyond superficial tool use to deeper understanding
+
+---
+
+The takeaway? AI literacy is essential for 21st-century professionals. Future leaders need robust knowledge and critical thinking—not just confidence—to navigate an AI-driven world.
+
+What's your experience with AI literacy gaps? 🧠
+
+#AIGovernance
+
+https://www.sciencedirect.com

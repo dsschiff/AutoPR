@@ -1,0 +1,23 @@
+Synthetic data promises to revolutionize healthcare research—solving privacy issues, modeling rare diseases, and expanding equity. But our analysis reveals it's also an ethical minefield that demands careful navigation.
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/hast.4911
+
+➤ The Challenge: Healthcare research is data-rich but insight-poor. Privacy laws, demographic gaps, and underrepresentation of rare conditions prevent researchers from fully utilizing available EHRs, public datasets, and lab studies.
+
+➤ The Promise: Synthetic data uses AI to generate datasets that mimic real-world patterns without containing actual patient information. It offers privacy protection, inclusive modeling of rare diseases and underserved groups, enhanced AI training capabilities, and scalable research opportunities.
+
+➤ The Risks: Our analysis in Hastings Center Report identifies significant concerns including accuracy issues for rare disease algorithms, potential privacy leaks despite synthetic nature, bias amplification from flawed source data, regulatory gaps exploiting "non-identifiable" status, and justice concerns about sidelining real-world diversity.
+
+✅ The Path Forward: We argue synthetic data isn't a magic fix—it's a powerful tool that demands robust safeguards. Key needs include standards for accuracy and reliability, privacy protections, transparent policies, and continued investment in diverse, real-world datasets.
+
+Synthetic data should complement real-world data, not replace it. The choice ahead: Will we use this technology to bridge healthcare gaps or deepen inequities?
+
+For governance teams and researchers working on AI in healthcare—curious what you're seeing in practice?
+
+[Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIethics #TechPolicy #HealthEquity #SyntheticData
+
+[Optional: tag journal/outlet here]

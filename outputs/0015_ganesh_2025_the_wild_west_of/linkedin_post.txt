@@ -1,0 +1,25 @@
+AI adoption in radiology is booming, but governance hasn't kept up. Our new study reveals how clinicians are stepping into the "Wild West" to fill critical gaps—and why it matters for patient safety.
+
+https://doi.org/10.1609/aies.v8i2.36608
+
+We interviewed 22 radiologists, clinicians, and regulators across the US and UK, uncovering both inspiring and concerning realities:
+
+➤ **The "Wild West" of governance**: Some hospitals have robust AI committees for oversight. Others just wing it—relying on clinicians to manage risks without tools, guidance, or institutional support.
+
+➤ **The "moral crumple zone"**: Radiologists face legal liability for AI-driven decisions they didn't fully control. Yet most hospitals lack requirements for post-deployment monitoring. Who checks if models fail on diverse local data? Often, no one.
+
+➤ **Rise of "governance entrepreneurs"**: When institutions fail, clinicians step up. These radiologists, IT staff, and ethicists voluntarily vet vendors, create makeshift audits, and push for bias monitoring. The catch? They lack resources and work unpaid, off-hours.
+
+✅ **The path forward**: We need streamlined regulatory guidance, mandatory AI education for clinicians, transparent "Consumer Reports" for medical AI, funding for under-resourced hospitals, and hybrid frameworks that empower grassroots governance while enforcing standardized monitoring.
+
+Published in AIES 2025. AI promises to revolutionize healthcare—but without equitable governance, we risk inconsistency and eroded trust. Policy practitioners and governance teams: what's the biggest challenge you're seeing?
+
+[Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIethics #HealthcareInnovation #TechPolicy #ClinicalAI
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_0.jpg]

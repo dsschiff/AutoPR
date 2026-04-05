@@ -1,0 +1,39 @@
+AI adoption in radiology is booming, but governance hasn't kept up. Our new study reveals how clinicians are stepping into the "Wild West" to fill critical gaps—and why it matters for patient safety 🧵
+
+https://doi.org/10.1609/aies.v8i2.36608
+
+---
+
+We interviewed 22 radiologists, clinicians, and regulators across the US and UK. The reality? Some hospitals have robust AI committees. Others just wing it—leaving clinicians to manage risks without tools or institutional support 🤠
+
+[Attach image: img_0.jpg]
+
+---
+
+The "moral crumple zone": Radiologists face legal liability for AI-driven decisions they didn't fully control. Yet most hospitals lack requirements for post-deployment monitoring. Who checks if models fail on diverse local data? Often, no one 😰
+
+---
+
+Enter "governance entrepreneurs"—radiologists, IT staff, and ethicists who voluntarily fill institutional voids. They vet vendors, create makeshift audits, and push for bias monitoring. The catch? They lack resources and work unpaid, off-hours 💡
+
+[Attach image: img_1.jpg]
+
+---
+
+The core problem: Top-down regulations fail to address local nuances. AI tools don't perform equally across patient populations. Hospital data pipelines create edge cases. Healthcare needs hybrid models balancing global oversight with local customization 📊
+
+---
+
+Systemic barriers are real: funding inequity between hospitals, procurement hurdles limiting AI testing before deployment, and clinicians lacking formal AI literacy training. These issues worsen disparities in patient safety 🛑
+
+---
+
+Our recommendations: streamline regulatory guidance, mandate AI education for clinicians, create transparent "Consumer Reports" for medical AI, fund under-resourced hospitals, and empower grassroots governance entrepreneurs ✅
+
+---
+
+Published in AIES 2025. AI promises to transform healthcare—but without equitable governance, we risk inconsistency and eroded trust. Policy practitioners: what's the biggest challenge you're seeing?
+
+https://doi.org/10.1609/aies.v8i2.36608
+
+@GRAILcenter.bsky.social @purduepolsci.bsky.social

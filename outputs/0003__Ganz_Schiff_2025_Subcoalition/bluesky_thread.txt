@@ -1,0 +1,71 @@
+Organizations aren't unified entities—they're arenas of competing goals and hidden factions.
+
+Our new paper in Management Science introduces Subcoalition Cluster Analysis (SCA), a method to uncover invisible coalitions driving conflict 🧵
+
+https://pubsonline.informs.org/doi/10.1287/mnsc.2020.0001
+
+---
+
+Most models treat organizations as monolithic. Reality? Teams form subcoalitions with aligned preferences.
+
+These fault lines drive decision chaos—but they're hard to observe and model with traditional methods.
+
+---
+
+SCA works like smarter preference-based clustering. Groups actors by maximizing shared utility.
+
+Result? Clear maps of internal divisions, even with sparse data 📊
+
+[Attach image: img_0.jpg]
+
+---
+
+Unlike traditional clustering, SCA shows coalitions form organically from shared goals:
+
+✅ Bottom-up, relational approach
+✅ Built for messy real-world data
+✅ Reveals hidden organizational fault lines
+
+---
+
+Wikipedia 2013: Visual Editor rollout sparked editor rebellion.
+
+SCA revealed two warring coalitions:
+🛠️ Technical design focus
+🌍 Cultural norms focus
+
+Leadership missed these divisions—strategy disaster followed
+
+[Attach image: img_1.jpg]
+
+---
+
+Baseball Hall of Fame (2009-2016): Writers debated PED-linked players.
+
+SCA uncovered growing rift:
+⚾ Pro-forgiveness coalition
+⚾ Purist coalition
+
+Schism reinforced decision silos over time
+
+[Attach image: img_2.jpg]
+
+---
+
+SCA turns organizational chaos into clarity:
+
+✅ Identify conflicts before they explode
+✅ Tailor strategies to real divisions
+✅ Avoid paralysis from hidden wars
+
+Built for governance practitioners studying organizational conflict.
+
+---
+
+Whether you're researching organizations or managing them, SCA offers new insights into coalition formation and conflict.
+
+Paper: https://pubsonline.informs.org/doi/10.1287/mnsc.2020.00013
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social [Add coauthors]
+
+[Optional: tag journal/outlet here]

@@ -1,0 +1,21 @@
+New multinational research reveals significant gaps in AI literacy among university students who will soon enter AI-driven careers. [LINK]
+
+Our study of 1,465 students across Germany, the UK, and the US found striking differences:
+
+🇩🇪 Germany leads in actual AI knowledge, likely due to better integration of AI coursework
+🇺🇸 US students show highest confidence in AI skills
+🇬🇧 UK students demonstrate the most skepticism toward AI
+
+The concerning finding? Over 70% of students across all countries haven't taken an AI-related course, despite the technology's growing importance in virtually every field.
+
+➤ Confidence doesn't equal competence: US students often overestimate their AI abilities compared to actual knowledge
+➤ Ethics education lags: Only 6.6% of students say AI ethics is covered substantially in courses
+➤ Learning happens informally: Students rely on tools like ChatGPT rather than structured education
+
+For education leaders and policymakers: We need comprehensive AI literacy programs that go beyond tool use to include ethics, limitations, and societal impacts. The future workforce depends on it.
+
+[Add coauthors] | GRAIL Center | Purdue University
+
+#AILiteracy #AIGovernance #ResponsibleAI #AIinEducation #TechPolicy #HigherEducation
+
+[Attach image: img_1.jpg]

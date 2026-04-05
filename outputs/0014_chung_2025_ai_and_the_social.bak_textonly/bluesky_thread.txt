@@ -1,0 +1,47 @@
+Can 350+ years of political philosophy help us govern AI? 🤔
+
+Our new paper explores how social contract theories apply to algorithmic decision-making in welfare, policing, and hiring.
+
+Published in AIES 2025
+
+https://doi.org/10.1609/aies.v8i1.36575 👇
+
+---
+
+The challenge: AI systems now make decisions affecting millions, but weren't designed with democratic legitimacy in mind.
+
+Transparency gaps, algorithmic bias, and global reach stretch traditional theories of political authority. 🤖
+
+---
+
+We examine how Hobbes, Locke, Rousseau, Rawls, and Nozick's frameworks handle:
+
+• Who's accountable for algorithmic mistakes?
+• Can people meaningfully consent to AI governance?
+• How do we measure fairness in opaque systems? ⚖️
+
+---
+
+Classical social contract theories offer insights but weren't built for algorithmic governance.
+
+Our analysis reveals where these frameworks need updating for AI-driven decision-making. 📜
+
+---
+
+Results suggest hybrid approaches may be needed—combining procedural safeguards, participatory elements, and fairness principles adapted for algorithmic contexts.
+
+No single theory handles all AI governance challenges. 🔄
+
+---
+
+For policy practitioners working on AI accountability: this framework offers a systematic approach to legitimacy in algorithmic systems.
+
+Curious what you think?
+
+https://doi.org/10.1609/aies.v8i1.36575
+
+[Add coauthors] [Add funder]
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social
+
+[Optional:

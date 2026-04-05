@@ -1,0 +1,80 @@
+🚨 AI governance is fragmented chaos. Over 500 standards, overlapping frameworks, contradictory regulations create a maze.
+
+But there's a roadmap to harmonize this and build human-centered AI governance 🧵
+
+https://link.springer.com/rwe/10.1007/978-981-97-8440-0_82-1
+
+[Attach image: img_0.jpg]
+
+---
+
+🤔 Core problem: AI advances rapidly, but governance lags in fragmented systems.
+
+Challenges:
+• Redundancy & overlap
+• Decision paralysis
+• Ethical concepts lost in translation
+• Geopolitical divides
+
+---
+
+Challenge 1: Translating fairness, transparency into actionable standards is hard.
+
+These values are context-dependent. Standards risk oversimplifying or "ethics-washing" - leaving structural inequities unaddressed.
+
+---
+
+Challenge 2: Voluntary standards without enforcement.
+
+Organizations cherry-pick compliance, creating superficial audits instead of meaningful accountability.
+
+---
+
+Challenge 3: The "15 competing standards" problem.
+
+Proliferation creates decision paralysis. Organizations face patchwork frameworks without clear guidance.
+
+[Attach image: img_1.jpg]
+
+---
+
+🚀 The solution: Human-centered, harmonized, adaptive governance.
+
+Our roadmap: global collaboration among ISO, IEEE, OECD. Use crosswalks to map overlaps and reduce redundancy.
+
+[Attach image: img_2.jpg]
+
+---
+
+Layered approach:
+• High-level frameworks (NIST AI RMF)
+• Domain guidelines (IEEE 7010)
+• Operational tools (model cards)
+
+Ensures scalability and adaptability.
+
+---
+
+Make governance agile:
+✅ Living documents evolving with tech
+✅ Rapid-response taskforces
+✅ Regulatory sandboxes for testing
+
+---
+
+Strengthen auditing:
+• Independent accreditation bodies
+• Transparent audit results
+• Practical tools bridging principles-practice gap
+
+---
+
+Embed diverse stakeholder voices throughout.
+
+From marginalized communities to Global South perspectives - ensure AI works for everyone. 🌍
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social
+
+https://link.springer.com/rwe/10.1007/978-981-97-8440-0_82-1
+
+[Optional: tag journal/outlet here]

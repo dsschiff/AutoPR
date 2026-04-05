@@ -1,0 +1,33 @@
+Can AI governance align with democratic principles? Our new research published in AIES 2025 examines this critical question: https://doi.org/10.1609/aies.v8i1.36575
+
+AI systems now make decisions affecting millions—determining welfare eligibility, policing strategies, and hiring outcomes. Yet these systems are often opaque, unaccountable, and centrally controlled. How does this square with democratic legitimacy?
+
+➤ We turned to social contract theory—the philosophical framework behind modern governance—to examine AI's legitimacy crisis. Classical theorists from Hobbes to Rawls assumed transparency and accountability. AI breaks these fundamental assumptions.
+
+✅ Our analysis reveals three dimensions where current AI governance fails:
+• Procedural legitimacy (transparency + participation)
+• Moral-substantive legitimacy (fairness + rights protection)  
+• Recognitional legitimacy (including affected communities)
+
+➤ Classical philosophers struggle with AI realities:
+• Hobbes works for clear authority but fails with diffuse AI harms
+• Locke requires "opt-out" options—impossible with pervasive algorithms
+• Rousseau's direct participation doesn't scale to automated systems
+• Rawls assumes transparency for fairness—algorithms lack clarity
+• Nozick focuses on individual rights, missing collective harms
+
+✅ Our solution: A hybrid social contract model blending Hobbesian accountability, Lockean rights protection, Rousseauian participation, Rawlsian fairness, and Nozickian freedom from coercion.
+
+Practical implications include citizen assemblies for algorithmic oversight, real-time transparency dashboards, and global cooperation frameworks. We also integrate critical perspectives to address systemic discrimination in both historical and algorithmic institutions.
+
+For policy practitioners and governance teams: What principles do you think are missing from current AI governance approaches?
+
+[Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIethics #TechPolicy #AlgorithmicAccountability #SocialContract
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_0.jpg]

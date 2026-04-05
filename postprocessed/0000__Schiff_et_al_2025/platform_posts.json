@@ -1,0 +1,88 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "AI systems are making decisions in hiring, finance, and healthcare—but who's checking if they're fair? 🤖\n\nNew research reveals how AI ethics auditing actually works (and where it's falling short).\n\nThread on the emerging field keeping AI accountable 🧵\n\n[LINK]",
+        "image": null
+      },
+      {
+        "text": "We interviewed 34 auditors across 23 organizations in 7 countries to understand what AI ethics audits look like in practice.\n\nThe field is booming due to:\n📈 Regulatory pressure (EU AI Act, NIST frameworks)\n🔍 Reputational risks from biased algorithms\n✅ Ethics as competitive advantage",
+        "image": null
+      },
+      {
+        "text": "AI ethics audits borrow from financial auditing:\n\n• Planning: Set scope, identify risks\n• Performing: Validate models, analyze bias\n• Reporting: Deliver insights (though public reporting is rare)\n\nHere's how the process breaks down:",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "Who's doing the auditing?\n\n🏢 Internal auditors (embedded in companies)\n🏛️ External auditors (Big Four firms, consultancies)\n🚀 Specialized startups (agile, niche tools)\n\nThe ecosystem is diverse but still developing standards:",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "What auditors actually check:\n\n⚖️ Bias across demographic groups\n🔒 Privacy protection\n📊 Explainability of decisions\n\nBut most audits focus narrowly on technical metrics. Broader socio-technical impacts often get sidelined.",
+        "image": null
+      },
+      {
+        "text": "Key challenges auditors face:\n\n📋 Regulatory ambiguity (vague, evolving laws)\n📊 Data gaps (poor documentation, governance)\n🤝 Interdisciplinary friction (tech vs legal vs leadership)\n\nYet auditors are building the frameworks as they go:",
+        "image": "img_3.jpg"
+      },
+      {
+        "text": "The gaps we found:\n\n1️⃣ Stakeholder engagement: Vulnerable groups rarely involved\n2️⃣ Transparency: Few audits result in public reports\n3️⃣ Standardization: No universal playbook exists\n\nThese limit accountability and public trust.",
+        "image": null
+      },
+      {
+        "text": "Despite challenges, auditors are ecosystem builders—translating vague regulations into actionable frameworks and pushing organizations toward better AI governance.\n\nBut we need clearer guidelines, stakeholder engagement, and public reporting to make this work.",
+        "image": null
+      },
+      {
+        "text": "The stakes are high. AI influences who gets hired, loans, healthcare.\n\nWithout robust, transparent audits, we risk perpetuating bias and undermining trust.\n\nFor governance teams and policy practitioners: what's your biggest auditing challenge?\n\n[LINK]\n\n@GRAIL_center @purduepolsci",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "AI systems are making critical decisions in hiring, finance, and healthcare—but who's ensuring they're fair and accountable? New research reveals how AI ethics auditing actually works in practice. [LINK]\n\n➤ We interviewed 34 auditors across 23 organizations in 7 countries to understand this emerging field\n\n✅ The boom is driven by regulatory pressure (EU AI Act, NIST frameworks), reputational risks from biased algorithms, and ethics as competitive advantage\n\n✅ AI ethics audits adapt financial auditing principles: planning (scope, risk identification), performing (model validation, bias analysis), and reporting (though public reporting remains rare)\n\n✅ The ecosystem includes internal auditors embedded in companies, external auditors from Big Four firms and consultancies, and specialized startups offering agile tools\n\nKey challenges auditors face:\n• Regulatory ambiguity with vague, evolving laws\n• Data gaps from poor documentation and governance\n• Interdisciplinary friction between tech, legal, and leadership teams\n\nCritical gaps we identified:\n• Limited stakeholder engagement—vulnerable groups rarely involved in audits\n• Lack of transparency—few audits result in public reports\n• No standardization—universal playbooks don't exist\n\nDespite these hurdles, auditors are ecosystem builders, translating regulations into actionable frameworks and pushing organizations toward better AI governance.\n\nFor governance teams and policy practitioners: robust, transparent auditing is essential as AI increasingly influences who gets hired, receives loans, or accesses healthcare. The path forward requires clearer regulatory guidelines, meaningful stakeholder engagement, and public reporting for accountability.\n\n[Add coauthors] | [Add funder]\n\nGRAIL Center | Purdue University\n\n#AIGovernance #ResponsibleAI #AIethics #TechPolicy #AIRegulation #AIAuditing",
+    "images": [
+      "img_1.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "AI systems are making decisions in hiring, finance, and healthcare—but who's checking if they're fair? 🤖\n\nNew research reveals how AI ethics auditing actually works (and where it's falling short).\n\nThread on the emerging field keeping AI accountable 👇\n\n[LINK]",
+        "image": null
+      },
+      {
+        "text": "We interviewed 34 auditors across 23 organizations in 7 countries to understand what AI ethics audits look like in practice.\n\nThe field is booming due to:\n📈 Regulatory pressure (EU AI Act, NIST frameworks)\n🔍 Reputational risks from biased algorithms\n✅ Ethics as competitive advantage",
+        "image": null
+      },
+      {
+        "text": "AI ethics audits borrow from financial auditing:\n\n• Planning: Set scope, identify risks\n• Performing: Validate models, analyze bias\n• Reporting: Deliver insights (though public reporting is rare)\n\nHere's how the process breaks down:",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "Who's doing the auditing?\n\n🏢 Internal auditors (embedded in companies)\n🏛️ External auditors (Big Four firms, consultancies)\n🚀 Specialized startups (agile, niche tools)\n\nThe ecosystem is diverse but still developing standards:",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "What auditors actually check:\n\n⚖️ Bias across demographic groups\n🔒 Privacy protection\n📊 Explainability of decisions\n\nBut most audits focus narrowly on technical metrics. Broader socio-technical impacts often get sidelined.",
+        "image": null
+      },
+      {
+        "text": "Key challenges auditors face:\n\n📋 Regulatory ambiguity (vague, evolving laws)\n📊 Data gaps (poor documentation, governance)\n🤝 Interdisciplinary friction (tech vs legal vs leadership)\n\nYet auditors are building the frameworks as they go:",
+        "image": "img_3.jpg"
+      },
+      {
+        "text": "The gaps we found:\n\n1️⃣ Stakeholder engagement: Vulnerable groups rarely involved\n2️⃣ Transparency: Few audits result in public reports\n3️⃣ Standardization: No universal playbook exists\n\nThese limit accountability and public trust.",
+        "image": null
+      },
+      {
+        "text": "Despite challenges, auditors are ecosystem builders—translating vague regulations into actionable frameworks and pushing organizations toward better AI governance.\n\nBut we need clearer guidelines, stakeholder engagement, and public reporting to make this work.",
+        "image": null
+      },
+      {
+        "text": "The stakes are high. AI influences who gets hired, loans, healthcare.\n\nWithout robust, transparent audits, we risk perpetuating bias and undermining trust.\n\nFor governance teams and policy practitioners: what's your biggest auditing challenge?\n\n[LINK]\n\n@purduepolsci.bsky.social @GRAILcenter.bsky.social",
+        "image": null
+      }
+    ]
+  }
+}

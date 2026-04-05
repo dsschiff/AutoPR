@@ -1,0 +1,84 @@
+New research across Germany, UK, and US reveals concerning gaps in AI literacy among university students 📊
+
+Over 70% haven't taken an AI course, yet they'll enter AI-driven careers
+
+Our findings suggest education isn't keeping pace
+
+[LINK]
+
+@GRAILcenter.bsky.social @purduepolsci.bsky.social
+
+[Attach image: img_1.jpg]
+
+---
+
+We surveyed 1,465 students on AI knowledge, confidence, attitudes, and experience
+
+🇩🇪 Germany leads in actual AI literacy
+🇺🇸 US shows highest confidence in AI skills
+🇬🇧 UK demonstrates most skepticism toward AI
+
+But confidence ≠ competence
+
+---
+
+The confidence gap is striking 🤔
+
+US students often overestimate their AI abilities compared to actual knowledge
+
+This overconfidence could lead to poor decisions in tech careers
+
+Germany's approach balances competence with appropriate caution
+
+---
+
+AI literacy goes beyond coding 💡
+
+It includes understanding ethics, limitations, and societal impacts
+
+Yet ethics is the least-covered topic in AI courses
+
+Only 6.6% of German students say ethics is addressed substantially
+
+[Attach image: img_3.jpg]
+
+---
+
+Where do students learn about AI? 📚
+
+Mostly informal sources and tools like ChatGPT
+
+30% of German students never explore AI outside class
+
+Only 3% of US students engage with AI daily
+
+Interest exists, but structured education lags
+
+---
+
+Our study also validated a robust AI literacy assessment tool for global use
+
+This could help institutions benchmark and improve AI education worldwide
+
+But results show we need tailored approaches—not one-size-fits-all solutions ⚖️
+
+---
+
+Key recommendations:
+
+✅ Bridge confidence-competence gaps with hands-on learning
+✅ Emphasize AI ethics in curricula
+✅ Fund comprehensive AI literacy programs
+✅ Move beyond surface-level AI tool use
+
+AI literacy is essential for future leaders
+
+---
+
+For education researchers and policy practitioners: How can we better prepare students for AI-driven careers?
+
+Curious what you're seeing in your contexts
+
+[LINK]
+
+#AILiteracy #AIGovernance #ResponsibleAI #AIinEducation

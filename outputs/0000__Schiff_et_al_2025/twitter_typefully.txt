@@ -1,0 +1,75 @@
+AI systems decide hiring, loans, healthcare. But who's auditing the auditors? 🤖
+
+Our new study in Big Data & Society explores AI ethics auditing—who does it, how it works, and what's missing.
+
+https://doi.org/10.1177/20539517241299732 🧵
+
+---
+
+We interviewed 34 AI ethics auditors across 23 organizations in 7 countries to understand this rapidly evolving field.
+
+Think financial audits, but for AI: planning scope, validating models, analyzing risks, and reporting findings. 📊
+
+[Attach image: img_0.jpg]
+
+---
+
+What's driving the AI auditing boom?
+
+🔹 Regulation (EU AI Act, NIST frameworks)
+🔹 Reputation risk (avoiding biased AI headlines)
+🔹 Competitive advantage (trustworthy AI as strategy)
+
+The ecosystem includes internal teams, Big Four firms, and specialized startups.
+
+[Attach image: img_1.jpg]
+
+---
+
+Key finding: Most audits focus narrowly on technical metrics like bias and accuracy.
+
+Broader socio-technical issues—how AI impacts vulnerable communities—often get sidelined.
+
+And external reporting? Almost nonexistent. Transparency remains a major gap. 📈
+
+[Attach image: img_2.jpg]
+
+---
+
+The challenges auditors face:
+
+• Regulatory ambiguity (laws are vague or evolving)
+• Data gaps (poor documentation/governance)
+• Interdisciplinary friction (tech, legal, leadership misalignment)
+
+Yet auditors are building the ecosystem from scratch.
+
+[Attach image: img_3.jpg]
+
+---
+
+Despite hurdles, AI ethics auditors are ecosystem builders:
+
+✅ Translating vague regulations into actionable frameworks
+✅ Pushing organizations to improve AI governance
+✅ Shaping best practices for emerging field
+
+But gaps remain in stakeholder engagement and standardization.
+
+---
+
+The stakes are high. AI influences who gets hired, who gets loans, who receives healthcare.
+
+Without robust, transparent audits, we risk perpetuating biases and undermining trust in AI systems.
+
+The path forward requires clearer guidelines and public accountability.
+
+---
+
+For AI governance teams and policy practitioners: What's the biggest challenge—technical gaps, regulatory clarity, or stakeholder engagement?
+
+Paper: https://doi.org/10.1177/20539517241299732
+
+@GRAIL_center @purduepolsci #AIGovernance #ResponsibleAI
+
+[Optional: tag journal/ou

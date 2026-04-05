@@ -1,0 +1,81 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "How do you measure AI literacy in under 5 minutes? 🧵\n\nWe developed AILIT-S—a 10-item test that maintains 91% accuracy of longer assessments while being practical for real-world use.\n\nPublished in Computers in Human Behavior: Artificial Humans 👇\n\nhttps://www.sciencedirect.com/",
+        "image": null
+      },
+      {
+        "text": "⚡ The challenge: Existing AI literacy tests take 12+ minutes, making them impractical for large-scale assessment.\n\nOur solution distills a robust 28-item instrument into 10 key questions—validated with 1,465 university students across the US, Germany, and UK.",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "📊 AILIT-S covers 5 core themes:\n• What is AI?\n• What can AI do? \n• How does AI work?\n• How do people perceive AI?\n• How should AI be used?\n\nSpecial emphasis on technical understanding—the foundation of true AI literacy.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "✅ Results show AILIT-S delivers:\n• ~5 minutes completion time (vs 12+ for full version)\n• 91% congruence with comprehensive assessment\n• Strong performance for group-level analysis\n\nTrade-off: slightly lower individual reliability (α = 0.61 vs 0.74)",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "🎯 Best use cases:\n✔️ Program evaluation\n✔️ Group comparisons\n✔️ Trend analysis\n✔️ Large-scale research\n\n❌ Avoid for individual diagnostics\n\nThe speed enables broader participation and better population-level insights.",
+        "image": null
+      },
+      {
+        "text": "🌍 Why this matters for AI governance:\nScalable assessment tools are essential for evaluating education programs, informing policy decisions, and ensuring citizens can navigate an AI-driven world.\n\nAILIT-S makes systematic evaluation feasible.",
+        "image": null
+      },
+      {
+        "text": "🔬 Next steps: Validation beyond Western university samples, workplace applications, and cross-cultural AI literacy research.\n\n[Add coauthors] [Add funder] @GRAIL_center @purduepolsci",
+        "image": null
+      },
+      {
+        "text": "Curious what you think—does this match what you're seeing in AI education assessment?\n\nFor researchers and educators working on AI literacy: paper below 👇\n\nhttps://www.sciencedirect.com/science/article/pii/S294988212500060X\n\n#AIGovernance #ResponsibleAI\n\n[Optional: tag journa",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "How do you assess AI literacy at scale? We developed AILIT-S—a 5-minute test that maintains research quality while being practical for real-world use. Published in Computers in Human Behavior: Artificial Humans: https://www.sciencedirect.com/science/article/pii/S294988212500060X\n\n🎯 The challenge: Existing AI literacy assessments take 12+ minutes, limiting their use in large-scale research and program evaluation.\n\n✅ Our solution: We distilled a comprehensive 28-item instrument into 10 essential questions, validated with 1,465 university students across the US, Germany, and UK.\n\n📊 Key findings:\n• 91% congruence with the full assessment\n• ~5 minutes completion time vs 12+ for comprehensive version\n• Strong reliability for group-level analysis (though lower for individual diagnosis)\n• Covers 5 core AI literacy domains with emphasis on technical understanding\n\n➤ Best applications: Program evaluation, trend analysis, group comparisons, and large-scale research where speed enables broader participation.\n\n🌍 For AI governance: Scalable assessment tools are essential for evaluating education programs, informing policy decisions, and ensuring citizens can thrive in an AI-driven world. AILIT-S makes systematic evaluation feasible.\n\n🔬 Future directions include validation beyond Western university populations, workplace applications, and cross-cultural AI literacy research.\n\n[Add coauthors] [Add funder]\n\nGRAIL Center | Purdue University\n\n#AIGovernance #ResponsibleAI #AILiteracy #EdTech #AIResearch #HigherEducation\n\n[Optional: tag journal/outlet here]",
+    "images": [
+      "img_2.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "How do you measure AI literacy in under 5 minutes? 🧵\n\nWe developed AILIT-S—a 10-item test that maintains 91% accuracy of longer assessments while being practical for real-world use.\n\nPublished in Computers in Human Behavior: Artificial Humans\n\nhttps://www.sciencedirect.com/science/article/pii/S2",
+        "image": null
+      },
+      {
+        "text": "⚡ The challenge: Existing AI literacy tests take 12+ minutes, making them impractical for large-scale assessment.\n\nOur solution distills a robust 28-item instrument into 10 key questions—validated with 1,465 university students across the US, Germany, and UK.",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "📊 AILIT-S covers 5 core themes:\n• What is AI?\n• What can AI do? \n• How does AI work?\n• How do people perceive AI?\n• How should AI be used?\n\nSpecial emphasis on technical understanding—the foundation of true AI literacy.",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "✅ Results show AILIT-S delivers:\n• ~5 minutes completion time (vs 12+ for full version)\n• 91% congruence with comprehensive assessment\n• Strong performance for group-level analysis\n\nTrade-off: slightly lower individual reliability (α = 0.61 vs 0.74)",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "🎯 Best use cases:\n✔️ Program evaluation\n✔️ Group comparisons\n✔️ Trend analysis\n✔️ Large-scale research\n\n❌ Avoid for individual diagnostics\n\nThe speed enables broader participation and better population-level insights.",
+        "image": null
+      },
+      {
+        "text": "🌍 Why this matters for AI governance:\nScalable assessment tools are essential for evaluating education programs, informing policy decisions, and ensuring citizens can navigate an AI-driven world.\n\nAILIT-S makes systematic evaluation feasible.",
+        "image": null
+      },
+      {
+        "text": "🔬 Next steps: Validation beyond Western university samples, workplace applications, and cross-cultural AI literacy research.\n\n[Add coauthors] [Add funder] @purduepolsci.bsky.social @GRAILcenter.bsky.social",
+        "image": null
+      },
+      {
+        "text": "Curious what you think—does this match what you're seeing in AI education assessment?\n\nFor researchers and educators working on AI literacy:\n\nhttps://www.sciencedirect.com/science/article/pii/S294988212500060X\n\n[Optional: tag journal/outlet here]",
+        "image": null
+      }
+    ]
+  },
+  "images_dir": "D:\\Dropbox\\Documents\\Academics\\Purdue\\GitHub\\AutoPR\\outputs\\0008__Hornberger_et_al_2025\\img"
+}

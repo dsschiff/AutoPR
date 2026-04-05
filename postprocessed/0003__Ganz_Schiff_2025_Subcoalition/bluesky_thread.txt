@@ -1,0 +1,71 @@
+Ever felt like your organization is a battlefield of hidden alliances? New research introduces Subcoalition Cluster Analysis (SCA)—a method to uncover invisible factions driving organizational conflict 🧵
+
+[LINK]
+
+@GRAILcenter.bsky.social @purduepolsci.bsky.social
+
+---
+
+Organizations aren't monolithic. They're arenas of competing goals where teams form factions—subcoalitions—with aligned preferences.
+
+Most models treat orgs as unified. Reality? These fault lines drive decision-making chaos.
+
+---
+
+The problem? Subcoalitions are hard to observe and model. Machine learning struggles with incomplete data and group dynamics.
+
+SCA breakthrough: Maps hidden fault lines through preference-based clustering.
+
+[Attach image: img_0.jpg]
+
+---
+
+How it works:
+✅ Seeds meaningful coalitions
+✅ Fine-tunes preference alignment
+✅ Stops when no one wants to defect
+
+Result? Stable, representative subcoalitions that explain conflict patterns.
+
+---
+
+Wikipedia 2013: Visual Editor rollout sparked veteran editor rebellion.
+
+SCA revealed two warring camps:
+🛠️ Technical design focus
+🌍 Cultural norms focus
+
+Leadership missed these divisions—strategy disaster followed.
+
+[Attach image: img_1.jpg]
+
+---
+
+Baseball Hall of Fame (2009-2016): PED-linked player debates.
+
+SCA uncovered persistent rift:
+⚾ Pro-forgiveness
+⚾ Anti-PED purists
+
+Schism grew, reinforcing silos over time.
+
+[Attach image: img_2.jpg]
+
+---
+
+Results suggest SCA helps managers:
+📊 Identify conflicts before explosion
+🎯 Tailor strategies to real divisions
+⚡ Avoid paralysis from hidden wars
+
+Computationally practical for real-world use.
+
+---
+
+For researchers and org leaders studying conflict—this method offers new insights into how factions form and persist.
+
+What subcoalitions are hiding in your workplace?
+
+[LINK]
+
+#AIGovernance #ResponsibleAI #ConflictResolution

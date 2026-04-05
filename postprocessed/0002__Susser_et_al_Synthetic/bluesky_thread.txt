@@ -1,0 +1,35 @@
+Healthcare research is drowning in data but can't use it due to privacy laws and demographic gaps. Synthetic data—AI-generated datasets—promises privacy protection and inclusivity. But our analysis reveals serious ethical risks 🧵
+
+[LINK]
+
+---
+
+Synthetic data uses machine learning to create artificial datasets mimicking real patterns. Benefits include:
+
+✅ Privacy protection
+✅ Rare disease modeling
+✅ Demographic gap filling
+✅ AI training fuel
+
+---
+
+But the risks are significant:
+
+• Accuracy issues for rare conditions
+• Potential privacy leaks
+• Bias amplification
+• Regulatory loopholes from "non-identifiable" labeling
+
+---
+
+Over-reliance could sideline real-world data diversity, deepening rather than solving equity issues. Our Hastings Center Report analysis suggests synthetic data must complement, not replace, real datasets.
+
+---
+
+We need accuracy standards, privacy safeguards, transparent policies, and investment in diverse real-world data.
+
+For AI governance researchers: what safeguards seem most critical?
+
+[LINK]
+
+@GRAILcenter.bsky.social @purduepolsci.bsky.social

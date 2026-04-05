@@ -1,0 +1,52 @@
+🚨 AI is transforming radiology—but governance frameworks are stuck in the "Wild West." Our new study reveals how clinicians are stepping up as governance entrepreneurs to fill critical gaps. Published in AIES 2025 🧵
+
+https://doi.org/10.1609/aies.v8i2.36608
+
+---
+
+We interviewed 22 experts—radiologists, oncologists, regulators—across the US and UK to map AI governance in radiology. The findings? Striking gaps between regulation and reality. 🏥
+
+---
+
+What's a "moral crumple zone"? When clinicians are unfairly held accountable for AI errors they can't control—like vendor algorithms misdiagnosing on clinical data. A consequence of underdeveloped governance. 😤
+
+---
+
+AI governance operates across layers—federal (FDA, MHRA), regional, local hospital policies. But there's vast disparity in implementation depending on resources, expertise, and population needs. 🌍
+
+---
+
+Some hospitals meticulously validate AI with local data. Others deploy off-the-shelf algorithms with no safeguards. This inconsistency puts patients at risk of AI "drift"—when systems degrade over time. 📉
+
+---
+
+Clinicians are forming grassroots committees to monitor AI performance and develop guidelines. But these efforts are usually underfunded, voluntary, and exist within rigid healthcare hierarchies. 💪
+
+---
+
+Key obstacles our participants identified:
+1️⃣ Limited AI literacy among staff
+2️⃣ Undefined evaluation standards
+3️⃣ Contradictory guidelines from regulators
+
+Clinicians want streamlined, coherent policies. 🚩
+
+---
+
+We propose a hybrid governance model:
+✅ Standardized national guidelines
+✅ Localized oversight for unique populations
+✅ Funding for underserved hospitals
+
+Equity in governance ensures all facilities can benefit safely. ⚖️
+
+---
+
+For policy practitioners and governance teams: What should fair AI governance prioritize? Standardization? Local flexibility? Performance monitoring?
+
+We'd love to hear your thoughts 👇
+
+https://doi.org/10.1609/aies.v8i2.36608
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social
+[Add

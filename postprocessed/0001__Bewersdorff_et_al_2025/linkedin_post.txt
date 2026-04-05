@@ -1,0 +1,24 @@
+AI education isn't one-size-fits-all. Our new study reveals why tailored approaches matter for building student confidence with AI.
+
+[LINK]
+
+✅ We surveyed 1,465 students across the US, UK, and Germany to understand how attitudes, interest, and knowledge shape AI self-efficacy
+
+✅ Results suggest three distinct student profiles emerge:
+• AI Advocates (48%): Tech-savvy and confident
+• Cautious Critics (21%): Skeptical with low confidence
+• Pragmatic Observers (31%): Neutral with moderate interest
+
+✅ Key finding: Interest acts as the bridge connecting attitudes, literacy, and actual AI usage. Simply using tools like ChatGPT boosts student interest.
+
+➤ Demographics matter: Advocates are mostly male STEM students, while Critics are overrepresented in humanities and predominantly female. Access to AI education varies widely.
+
+➤ For educators and governance teams: Each profile needs different approaches. Critics need demystification and relevance to non-tech fields. Observers need hands-on experiences. Advocates need ethical frameworks.
+
+If we don't address these different learning needs, we risk leaving entire groups behind in an AI-driven world. [Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AILiteracy #Education #AIForAll #TechPolicy
+
+[Attach image: img_1.jpg]

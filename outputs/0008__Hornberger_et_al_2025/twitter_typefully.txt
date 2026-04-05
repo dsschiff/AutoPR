@@ -1,0 +1,76 @@
+How do you measure AI literacy in under 5 minutes? 🧵
+
+We developed AILIT-S—a 10-item test that maintains 91% accuracy of longer assessments while being practical for real-world use.
+
+Published in Computers in Human Behavior: Artificial Humans 👇
+
+https://www.sciencedirect.com/
+
+---
+
+⚡ The challenge: Existing AI literacy tests take 12+ minutes, making them impractical for large-scale assessment.
+
+Our solution distills a robust 28-item instrument into 10 key questions—validated with 1,465 university students across the US, Germany, and UK.
+
+[Attach image: img_0.jpg]
+
+---
+
+📊 AILIT-S covers 5 core themes:
+• What is AI?
+• What can AI do? 
+• How does AI work?
+• How do people perceive AI?
+• How should AI be used?
+
+Special emphasis on technical understanding—the foundation of true AI literacy.
+
+[Attach image: img_1.jpg]
+
+---
+
+✅ Results show AILIT-S delivers:
+• ~5 minutes completion time (vs 12+ for full version)
+• 91% congruence with comprehensive assessment
+• Strong performance for group-level analysis
+
+Trade-off: slightly lower individual reliability (α = 0.61 vs 0.74)
+
+[Attach image: img_2.jpg]
+
+---
+
+🎯 Best use cases:
+✔️ Program evaluation
+✔️ Group comparisons
+✔️ Trend analysis
+✔️ Large-scale research
+
+❌ Avoid for individual diagnostics
+
+The speed enables broader participation and better population-level insights.
+
+---
+
+🌍 Why this matters for AI governance:
+Scalable assessment tools are essential for evaluating education programs, informing policy decisions, and ensuring citizens can navigate an AI-driven world.
+
+AILIT-S makes systematic evaluation feasible.
+
+---
+
+🔬 Next steps: Validation beyond Western university samples, workplace applications, and cross-cultural AI literacy research.
+
+[Add coauthors] [Add funder] @GRAIL_center @purduepolsci
+
+---
+
+Curious what you think—does this match what you're seeing in AI education assessment?
+
+For researchers and educators working on AI literacy: paper below 👇
+
+https://www.sciencedirect.com/science/article/pii/S294988212500060X
+
+#AIGovernance #ResponsibleAI
+
+[Optional: tag journa

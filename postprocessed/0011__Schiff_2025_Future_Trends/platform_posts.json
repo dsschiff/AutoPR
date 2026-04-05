@@ -1,0 +1,76 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "AI governance is pulling us in 5 directions at once: centralized vs. decentralized, robust vs. minimal enforcement, adaptive vs. enduring rules. My new work explores how aviation, climate, and open-source models might guide us through this complexity 🧵 [LINK]",
+        "image": null
+      },
+      {
+        "text": "The challenge: balancing competing tensions in AI regulation\n\n• Centralized vs. decentralized control\n• Robust vs. minimal enforcement  \n• Adaptive vs. enduring rules\n• Private leadership vs. shared governance\n• Narrow vs. broad societal goals",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "I adapt lessons from 4 existing governance models:\n\n✈️ Aviation: Centralized, safety-first, but costly\n🌱 Organic food: Decentralized, private-driven, inconsistent\n🌍 Climate: Shared, flexible, but weak enforcement\n💻 Open-source: Collaborative, adaptive, but fragile",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Current reality: fragmentation everywhere\n\n• EU centralizing with AI Act; US taking decentralized approach\n• Monitoring ranges from strict compliance to voluntary audits\n• Tech firms dominate decisions while public input gets sidelined",
+        "image": null
+      },
+      {
+        "text": "The wildcard? AI's pace itself. Generative AI caught policymakers off guard. A major crisis—deepfake election scandal—could force rapid regulation. Meanwhile, public demand for accountability grows 📈",
+        "image": null
+      },
+      {
+        "text": "The path forward suggests adaptive, hybrid models combining:\n\n• Centralized safety oversight (aviation-style)\n• Decentralized innovation hubs (open-source style)\n• Broad societal goals (climate-style)\n\nExperimentation will be key 🔬",
+        "image": null
+      },
+      {
+        "text": "Why this matters: AI governance shapes society itself. Done right, it addresses inequality and climate impact. Done wrong, it entrenches power imbalances and amplifies harms. The stakes are enormous",
+        "image": null
+      },
+      {
+        "text": "For policy practitioners and governance teams: What trade-offs would you prioritize? Centralization or flexibility? Private leadership or public control?\n\nPaper: [LINK] @GRAIL_center @purduepolsci #AIGovernance #ResponsibleAI #TechPolicy",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "AI governance is pulling us in five directions at once, and we need better frameworks to navigate this complexity. My new research explores how lessons from aviation, climate policy, and open-source software might guide AI regulation. [LINK]\n\n✅ The core challenge: AI regulation faces fundamental tensions between centralized vs. decentralized control, robust vs. minimal enforcement, adaptive vs. enduring rules, private leadership vs. shared governance, and narrow vs. broad societal goals.\n\n➤ I analyze four existing governance models for insights:\n• Aviation: Centralized, safety-first approach but costly to implement\n• Organic food: Decentralized, private-driven but creates inconsistencies  \n• Climate policy: Shared governance, flexible but weak enforcement\n• Open-source software: Collaborative, adaptive but potentially fragile\n\n• Current reality shows fragmentation everywhere. The EU is centralizing with the AI Act while the US takes a decentralized, sector-specific approach. Monitoring ranges from strict compliance to voluntary audits, and tech firms dominate decisions while public input often gets sidelined.\n\n➤ The path forward suggests adaptive, hybrid models that combine centralized safety oversight (like aviation), decentralized innovation hubs (like open-source), and broad societal goals (like climate policy). Experimentation will be essential.\n\nWhy this matters for policy practitioners and governance teams: AI governance will shape not just technology but society itself. Done right, it can address inequality and climate impact. Done wrong, it risks entrenching power imbalances.\n\nGRAIL Center | Purdue University",
+    "images": [
+      "img_0.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "AI governance faces fundamental tensions: centralized vs. decentralized control, robust vs. minimal enforcement, adaptive vs. enduring rules. My new work explores how aviation, climate, and open-source models might guide us 🧵 [LINK]",
+        "image": null
+      },
+      {
+        "text": "The challenge: balancing competing forces in AI regulation\n\n• Centralized vs. decentralized control\n• Robust vs. minimal enforcement\n• Adaptive vs. enduring rules  \n• Private leadership vs. shared governance\n• Narrow vs. broad societal goals",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "I examine 4 governance models for lessons:\n\n✈️ Aviation: Centralized, safety-first, costly\n🌱 Organic food: Decentralized, private-driven, inconsistent\n🌍 Climate: Shared, flexible, weak enforcement\n💻 Open-source: Collaborative, adaptive, fragile",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "Today's reality: fragmentation dominates. EU centralizing with AI Act; US going decentralized. Monitoring varies from strict compliance to voluntary audits. Tech firms lead while public input lags",
+        "image": null
+      },
+      {
+        "text": "The wildcard: AI's breakneck pace. Generative AI blindsided policymakers. A crisis—like deepfake election interference—could trigger rapid regulation. Public accountability demands intensify",
+        "image": null
+      },
+      {
+        "text": "The way forward: adaptive, hybrid models combining centralized safety oversight (aviation-style), decentralized innovation (open-source), and broad societal goals (climate-style). Experimentation essential",
+        "image": null
+      },
+      {
+        "text": "For policy practitioners: What trade-offs matter most? Centralization or flexibility? Private leadership or public control? AI governance shapes society itself—the stakes couldn't be higher\n\n[LINK] @purduepolsci.bsky.social @GRAILcenter.bsky.social",
+        "image": null
+      }
+    ]
+  }
+}

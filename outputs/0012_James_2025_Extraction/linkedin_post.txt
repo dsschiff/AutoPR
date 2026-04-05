@@ -1,0 +1,20 @@
+🚨 AI isn't just reshaping work—it's extracting value from it. Our new research examines how AI systems function as extractive technologies, appropriating copyrighted material and destabilizing professional norms while deepening systemic inequalities. Published in IEEE Transactions on Technology and Society: https://ieeexplore.ieee.org/document/11299073
+
+💡 Key findings:
+• We frame AI as a digital mining operation—millions of books destroyed to train LLMs without consent or compensation
+• AI centralizes power in tech monopolies while smaller firms and countries become dependent
+• Rushed implementations in schools and workplaces erode intellectual rigor and professional autonomy
+
+🔍 We introduce concepts like "machine learning misogyny" to highlight how AI amplifies societal biases, from gender discrimination to harassment. Technology isn't neutral—it reflects and often worsens the inequalities it's trained on.
+
+🌍 Our research suggests moving from efficiency-at-all-costs to governance models that prioritize equity, sustainability, and human dignity. This requires transparency, diverse perspectives, and policies that hold tech accountable.
+
+For policy practitioners and governance teams: How can we ensure AI serves everyone, not just the powerful? The path forward demands multidisciplinary solutions that treat AI as both a technological and societal challenge.
+
+[Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIethics #TechPolicy #FutureOfWork #DigitalExtraction
+
+[Optional: tag journal/outlet here]

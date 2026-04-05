@@ -1,0 +1,88 @@
+🚨 AI governance is fragmented. Over 500 standards, overlapping frameworks, contradictory regulations create a maze for organizations.
+
+But there's a roadmap to harmonize this and build human-centered AI governance 🧵
+
+https://link.springer.com/rwe/10.1007/978-981-97-8440-0_82
+
+[Attach image: img_0.jpg]
+
+---
+
+🤔 The core problem: AI advances at breakneck speed, but governance tools lag behind in fragmented systems.
+
+Key challenges:
+• Redundancy & overlap
+• Decision paralysis 
+• Ethical concepts lost in translation
+• Geopolitical divides
+
+---
+
+Challenge 1: Translating fairness, transparency, well-being into actionable standards is HARD.
+
+Why? These values are context-dependent and contested. Standards risk oversimplifying or "ethics-washing" - leaving structural inequities unaddressed.
+
+---
+
+Challenge 2: Voluntary standards dominate without enforcement.
+
+Organizations cherry-pick compliance, creating superficial audits and reputational signaling instead of meaningful accountability.
+
+---
+
+Challenge 3: The "15 competing standards" problem.
+
+Proliferation leads to decision paralysis. Organizations face patchwork frameworks without clear guidance on priorities or integration.
+
+[Attach image: img_1.jpg]
+
+---
+
+Challenge 4: The pacing problem.
+
+AI evolves faster than governance. Standards take years to develop, but AI risks emerge in months. Result? Obsolete standards that fail to keep up.
+
+---
+
+🚀 The solution: Human-centered, harmonized, adaptive AI governance.
+
+Our roadmap starts with global collaboration among ISO, IEEE, OECD. Use crosswalks to map overlaps and reduce redundancy.
+
+[Attach image: img_2.jpg]
+
+---
+
+Adopt a layered approach:
+• High-level frameworks (NIST AI RMF)
+• Domain-specific guidelines (IEEE 7010 for well-being)
+• Operational tools (model cards)
+
+This ensures scalability and adaptability.
+
+---
+
+Make governance agile:
+✅ Living documents that evolve with AI tech
+✅ Rapid-response taskforces for real-time updates  
+✅ Regulatory sandboxes to test compliance frameworks
+
+---
+
+Strengthen auditing ecosystems:
+• Train independent accreditation bodies
+• Promote transparency in audit results
+• Use practical tools like datasheets and checklists to bridge principles-practice gap
+
+[Attach image: img_3.jpg]
+
+---
+
+Finally: Embed diverse stakeholder voices in every step.
+
+From marginalized communities to Global South perspectives - inclusive councils ensure AI works for everyone. 🌍
+
+@GRAIL_center @purduepolsci
+
+https://link.springer.com/rwe/10.1007/978-981-97-8440-0_82-1
+
+#AIGovernanc

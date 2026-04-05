@@ -1,0 +1,65 @@
+AI education isn't one-size-fits-all 🎯
+
+Our study of 1,465 students across US, UK & Germany reveals 3 distinct student profiles when it comes to AI confidence and engagement.
+
+Results suggest we need tailored approaches 👇🧵
+
+[LINK]
+
+@GRAIL_center @purduepolsci
+
+---
+
+We find that AI self-efficacy (confidence in using AI) depends on more than just knowledge 📚
+
+Interest acts as the bridge connecting attitudes, literacy, and actual AI usage.
+
+Simply using tools like ChatGPT boosts student interest ⬆️
+
+---
+
+Using advanced modeling, we identified 3 student profiles:
+
+🚀 AI Advocates (48%): Tech-savvy, confident
+⚠️ Cautious Critics (21%): Skeptical, low confidence  
+🤔 Pragmatic Observers (31%): Neutral, moderate interest
+
+Each needs different educational approaches
+
+[Attach image: img_1.jpg]
+
+---
+
+Demographics matter for AI engagement 📊
+
+• Advocates: mostly male, STEM backgrounds
+• Critics: overrepresented in humanities, predominantly female
+• Access to AI education varies widely—Critics report least exposure
+
+This has implications for equity
+
+---
+
+Our path model shows positive attitudes predict higher AI engagement, while negative attitudes barely influence behavior 🔍
+
+This suggests focusing on building interest and positive experiences rather than just addressing concerns
+
+[Attach image: img_0.jpg]
+
+---
+
+For educators and governance teams: AI programs need tailoring 🎯
+
+• Advocates: encourage critical thinking about ethics
+• Critics: demystify AI, show relevance to non-tech fields
+• Observers: use hands-on experiences to spark engagement
+
+---
+
+If we don't address these different profiles, we risk leaving entire groups behind in an AI-driven world 🌍
+
+Curious what you're seeing in your contexts?
+
+[LINK]
+
+#AIGovernance #ResponsibleAI #AILiteracy #Education

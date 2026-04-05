@@ -1,0 +1,31 @@
+AI systems are making critical decisions in hiring, finance, and healthcare—but who's ensuring they're fair and accountable? New research reveals how AI ethics auditing actually works in practice. [LINK]
+
+➤ We interviewed 34 auditors across 23 organizations in 7 countries to understand this emerging field
+
+✅ The boom is driven by regulatory pressure (EU AI Act, NIST frameworks), reputational risks from biased algorithms, and ethics as competitive advantage
+
+✅ AI ethics audits adapt financial auditing principles: planning (scope, risk identification), performing (model validation, bias analysis), and reporting (though public reporting remains rare)
+
+✅ The ecosystem includes internal auditors embedded in companies, external auditors from Big Four firms and consultancies, and specialized startups offering agile tools
+
+Key challenges auditors face:
+• Regulatory ambiguity with vague, evolving laws
+• Data gaps from poor documentation and governance
+• Interdisciplinary friction between tech, legal, and leadership teams
+
+Critical gaps we identified:
+• Limited stakeholder engagement—vulnerable groups rarely involved in audits
+• Lack of transparency—few audits result in public reports
+• No standardization—universal playbooks don't exist
+
+Despite these hurdles, auditors are ecosystem builders, translating regulations into actionable frameworks and pushing organizations toward better AI governance.
+
+For governance teams and policy practitioners: robust, transparent auditing is essential as AI increasingly influences who gets hired, receives loans, or accesses healthcare. The path forward requires clearer regulatory guidelines, meaningful stakeholder engagement, and public reporting for accountability.
+
+[Add coauthors] | [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AIethics #TechPolicy #AIRegulation #AIAuditing
+
+[Attach image: img_1.jpg]

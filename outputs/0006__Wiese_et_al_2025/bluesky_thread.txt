@@ -1,0 +1,79 @@
+🚨 AI is reshaping the world—but how do we prepare the next generation to wield it ethically?
+
+Our systematic review of 1,667 papers reveals AI ethics education has exploded since 2018, but faces critical growing pains.
+
+https://www.sciencedirect.com/science/article/pii/S2666920X25000451 🧵
+
+---
+
+🌐 AI is everywhere—your workplace, social feeds, doctor's office. With this power comes ethical responsibility.
+
+Bias, misinformation, privacy risks are just the beginning. How do we teach future engineers, policymakers & citizens to navigate these complexities?
+
+---
+
+📚 We analyzed content, pedagogy & assessment practices across AI ethics education (2018-2023).
+
+The results? A field full of promise but grappling with fundamental challenges in what to teach, how to teach it, and whether students are actually learning.
+
+[Attach image: img_0.jpg]
+
+---
+
+🔑 Key finding: The best programs go beyond "rules for algorithms."
+
+They tackle societal issues—bias, fairness, privacy, social justice. Higher-ed leads with comprehensive curricula, but K-12 efforts are still catching up.
+
+[Attach image: img_1.jpg]
+
+---
+
+🎓 Pedagogy that works? Forget boring lectures.
+
+Most impactful methods are hands-on:
+• Case studies
+• Group projects
+• Gaming & storytelling
+
+These engage students in real-world ethical dilemmas, making abstract principles tangible.
+
+---
+
+❌ The assessment gap: Programs aim to develop ethical reasoning & communication skills, but few measure if students are actually learning.
+
+Summative assessments dominate (grades), but formative feedback—the kind that drives growth—is rare.
+
+---
+
+🚧 Major challenges we identified:
+• Keeping up with AI's rapid evolution
+• Teaching abstract concepts to diverse audiences
+• Shortage of trained educators
+• Misalignment between teaching goals & assessment methods
+
+[Attach image: img_2.jpg]
+
+---
+
+🛠️ What needs to happen:
+
+✅ Develop tools measuring behavioral impact of ethics education
+✅ Integrate ethics across all levels (K-12 to university)
+✅ Fund initiatives prioritizing formative assessments
+✅ Align assessments with real-world skills
+
+---
+
+🌟 AI ethics education has grown rapidly but is still finding its footing.
+
+By focusing on interdisciplinary teaching, hands-on learning & better assessments, we can prepare the next generation to build AI systems that serve humanity responsibly.
+
+---
+
+Published in Computers and Education: Artificial Intelligence. [Add coauthors] [Add funder]
+
+For policy practitioners & educators: What ethical dilemmas do you think are most urgent in AI today?
+
+https://www.sciencedirect.com/science/article/pii/S2666920X25000451
+
+@purduepolsci.bsky.social @GR

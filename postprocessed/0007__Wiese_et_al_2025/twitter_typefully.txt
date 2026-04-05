@@ -1,0 +1,64 @@
+The AI job market is shifting beyond coding. Employers now demand skills in AI ethics and governance at unprecedented rates.
+
+Our analysis of 4.4M+ job postings from 2018-2023 reveals what's driving this transformation 🧵
+
+[LINK]
+
+@GRAIL_center @purduepolsci
+
+---
+
+📊 The numbers tell a clear story:
+
+• AI ethics roles: 35K (2018) → 109K (2022)
+• AI governance roles: similar trajectory → 96K (2022)
+
+Even as overall AI hiring dipped in 2023, these specialized roles remained stable.
+
+[Attach image: img_1.jpg]
+
+---
+
+🏦 Finance and Information sectors lead the charge
+
+Why? Highly regulated industries can't afford ethical lapses. They need professionals who understand both technical systems AND regulatory compliance.
+
+---
+
+⚖️ AI ethics ≠ AI governance (though they're complementary)
+
+Ethics roles focus on:
+• Data privacy
+• Bias mitigation
+• Fairness frameworks
+
+Governance roles emphasize:
+• Risk management
+• Policy development
+• Regulatory compliance
+
+---
+
+🎯 Three forces driving this demand:
+
+• Governments rolling out AI regulations
+• Companies recognizing public trust as critical for AI adoption
+• Universities scrambling to create relevant training programs
+
+[Attach image: img_3.jpg]
+
+---
+
+💡 The opportunity: 100K+ professionals needed annually in these fields
+
+Yet many organizations struggle to find qualified talent. For those looking to upskill, this represents a significant career opportunity where demand outpaces supply.
+
+---
+
+🤔 Question for the community: Should every AI professional receive ethics/governance training, or should these remain specialized roles?
+
+Curious what you think—does this match what you're seeing in your organizations?
+
+[LINK]
+
+#AIGovernance #ResponsibleAI

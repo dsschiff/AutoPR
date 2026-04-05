@@ -1,0 +1,75 @@
+Organizations aren't unified entities—they're arenas of competing stakeholder goals and hidden factions.
+
+Our new paper in Management Science introduces Subcoalition Cluster Analysis (SCA) to uncover invisible coalitions driving conflict 🧵
+
+https://pubsonline.informs.org/doi/
+
+---
+
+Most management models treat organizations as monolithic. Reality? Teams form subcoalitions with aligned preferences.
+
+These fault lines drive decision-making chaos—but they're hard to observe and even harder to model with traditional methods.
+
+---
+
+SCA works like a smarter, preference-based clustering algorithm. It groups organizational actors into subcoalitions by maximizing shared utility.
+
+Result? A clear map of internal divisions, even with sparse or messy data 📊
+
+[Attach image: img_0.jpg]
+
+---
+
+Unlike traditional clustering methods that assume external factors drive preferences, SCA flips the script:
+
+✅ Coalitions form organically from shared goals
+✅ Bottom-up, relational approach
+✅ Built for messy real-world data
+
+---
+
+Case study: Wikipedia's 2013 Visual Editor rollout sparked rebellion from veteran editors.
+
+SCA revealed two warring subcoalitions:
+🛠️ Technical design focus
+🌍 Cultural norms focus
+
+Leadership missed these divisions—leading to strategy disaster
+
+[Attach image: img_1.jpg]
+
+---
+
+Baseball Hall of Fame case (2009-2016): Writers debated inducting players linked to PEDs.
+
+SCA uncovered a growing rift:
+⚾ Pro-PED forgiveness coalition
+⚾ Anti-PED purist coalition
+
+This schism reinforced decision-making silos over time
+
+[Attach image: img_2.jpg]
+
+---
+
+SCA turns organizational chaos into clarity. Managers can:
+
+✅ Identify & anticipate internal conflicts
+✅ Tailor strategies to real divisions, not assumptions
+✅ Avoid paralysis from hidden factional wars
+
+💻 Handles incomplete data across industries
+
+---
+
+Whether you're a researcher, manager, or governance practitioner studying organizational conflict, SCA offers new insights into how coalitions form and evolve.
+
+Paper: https://pubsonline.informs.org/doi/10.1287/mnsc.2020.00013
+
+@GRAIL_center @purduepolsci [Add coauthors]
+
+#AI
+
+---
+
+[Optional: tag journal/outlet here]

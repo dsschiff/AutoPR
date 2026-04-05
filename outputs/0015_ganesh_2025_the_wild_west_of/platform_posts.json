@@ -1,0 +1,81 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "AI adoption in radiology is booming, but governance hasn't kept up. Our new study reveals how clinicians are stepping into the \"Wild West\" to fill critical gaps—and why it matters for patient safety 🧵\n\nhttps://doi.org/10.1609/aies.v8i2.36608",
+        "image": null
+      },
+      {
+        "text": "We interviewed 22 radiologists, clinicians, and regulators across the US and UK. The reality? Some hospitals have robust AI committees. Others just wing it—leaving clinicians to manage risks without tools or institutional support 🤠",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "The \"moral crumple zone\": Radiologists face legal liability for AI-driven decisions they didn't fully control. Yet most hospitals lack requirements for post-deployment monitoring. Who checks if models fail on diverse local data? Often, no one 😰",
+        "image": null
+      },
+      {
+        "text": "Enter \"governance entrepreneurs\"—radiologists, IT staff, and ethicists who voluntarily fill institutional voids. They vet vendors, create makeshift audits, and push for bias monitoring. The catch? They lack resources and work unpaid, off-hours 💡",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "The core problem: Top-down regulations fail to address local nuances. AI tools don't perform equally across patient populations. Hospital data pipelines create edge cases. Healthcare needs hybrid models balancing global oversight with local customization 📊",
+        "image": null
+      },
+      {
+        "text": "Systemic barriers are real: funding inequity between hospitals, procurement hurdles limiting AI testing before deployment, and clinicians lacking formal AI literacy training. These issues worsen disparities in patient safety 🛑",
+        "image": null
+      },
+      {
+        "text": "Our recommendations: streamline regulatory guidance, mandate AI education for clinicians, create transparent \"Consumer Reports\" for medical AI, fund under-resourced hospitals, and empower grassroots governance entrepreneurs ✅",
+        "image": null
+      },
+      {
+        "text": "Published in AIES 2025. AI promises to revolutionize healthcare—but without equitable governance, we risk inconsistency and eroded trust. Policy practitioners: what's your biggest challenge?\n\nhttps://doi.org/10.1609/aies.v8i2.36608\n\n@GRAIL_center @purduepolsci [Add",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "AI adoption in radiology is booming, but governance hasn't kept up. Our new study reveals how clinicians are stepping into the \"Wild West\" to fill critical gaps—and why it matters for patient safety.\n\nhttps://doi.org/10.1609/aies.v8i2.36608\n\nWe interviewed 22 radiologists, clinicians, and regulators across the US and UK, uncovering both inspiring and concerning realities:\n\n➤ **The \"Wild West\" of governance**: Some hospitals have robust AI committees for oversight. Others just wing it—relying on clinicians to manage risks without tools, guidance, or institutional support.\n\n➤ **The \"moral crumple zone\"**: Radiologists face legal liability for AI-driven decisions they didn't fully control. Yet most hospitals lack requirements for post-deployment monitoring. Who checks if models fail on diverse local data? Often, no one.\n\n➤ **Rise of \"governance entrepreneurs\"**: When institutions fail, clinicians step up. These radiologists, IT staff, and ethicists voluntarily vet vendors, create makeshift audits, and push for bias monitoring. The catch? They lack resources and work unpaid, off-hours.\n\n✅ **The path forward**: We need streamlined regulatory guidance, mandatory AI education for clinicians, transparent \"Consumer Reports\" for medical AI, funding for under-resourced hospitals, and hybrid frameworks that empower grassroots governance while enforcing standardized monitoring.\n\nPublished in AIES 2025. AI promises to revolutionize healthcare—but without equitable governance, we risk inconsistency and eroded trust. Policy practitioners and governance teams: what's the biggest challenge you're seeing?\n\n[Add coauthors] [Add funder]\n\nGRAIL Center | Purdue University\n\n#AIGovernance #ResponsibleAI #AIethics #HealthcareInnovation #TechPolicy #ClinicalAI\n\n[Optional: tag journal/outlet here]",
+    "images": [
+      "img_0.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "AI adoption in radiology is booming, but governance hasn't kept up. Our new study reveals how clinicians are stepping into the \"Wild West\" to fill critical gaps—and why it matters for patient safety 🧵\n\nhttps://doi.org/10.1609/aies.v8i2.36608",
+        "image": null
+      },
+      {
+        "text": "We interviewed 22 radiologists, clinicians, and regulators across the US and UK. The reality? Some hospitals have robust AI committees. Others just wing it—leaving clinicians to manage risks without tools or institutional support 🤠",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "The \"moral crumple zone\": Radiologists face legal liability for AI-driven decisions they didn't fully control. Yet most hospitals lack requirements for post-deployment monitoring. Who checks if models fail on diverse local data? Often, no one 😰",
+        "image": null
+      },
+      {
+        "text": "Enter \"governance entrepreneurs\"—radiologists, IT staff, and ethicists who voluntarily fill institutional voids. They vet vendors, create makeshift audits, and push for bias monitoring. The catch? They lack resources and work unpaid, off-hours 💡",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "The core problem: Top-down regulations fail to address local nuances. AI tools don't perform equally across patient populations. Hospital data pipelines create edge cases. Healthcare needs hybrid models balancing global oversight with local customization 📊",
+        "image": null
+      },
+      {
+        "text": "Systemic barriers are real: funding inequity between hospitals, procurement hurdles limiting AI testing before deployment, and clinicians lacking formal AI literacy training. These issues worsen disparities in patient safety 🛑",
+        "image": null
+      },
+      {
+        "text": "Our recommendations: streamline regulatory guidance, mandate AI education for clinicians, create transparent \"Consumer Reports\" for medical AI, fund under-resourced hospitals, and empower grassroots governance entrepreneurs ✅",
+        "image": null
+      },
+      {
+        "text": "Published in AIES 2025. AI promises to transform healthcare—but without equitable governance, we risk inconsistency and eroded trust. Policy practitioners: what's the biggest challenge you're seeing?\n\nhttps://doi.org/10.1609/aies.v8i2.36608\n\n@GRAILcenter.bsky.social @purduepolsci.bsky.social",
+        "image": null
+      }
+    ]
+  },
+  "images_dir": "C:\\projects\\active\\AutoPR\\outputs\\0015_ganesh_2025_the_wild_west_of\\img"
+}

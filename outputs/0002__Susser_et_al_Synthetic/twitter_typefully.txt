@@ -1,0 +1,60 @@
+Synthetic data promises to revolutionize healthcare research—solving privacy issues, modeling rare diseases, expanding equity. But it's also an ethical minefield that demands careful navigation 🧵
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/hast.4911
+
+---
+
+The challenge: Healthcare research is data-rich but insight-poor 📊
+
+Privacy laws, demographic gaps, and underrepresentation of rare conditions prevent researchers from fully utilizing available EHRs, public datasets, and lab studies
+
+---
+
+Enter synthetic data: AI-generated datasets that mimic real-world patterns without containing actual patient information
+
+Sounds perfect—private, inclusive, scalable. But our analysis in Hastings Center Report reveals significant ethical complexities 🚨
+
+---
+
+What synthetic data promises:
+• Privacy protection through artificial datasets
+• Inclusive modeling of rare diseases & underserved groups  
+• Enhanced AI training capabilities
+• Scalable research opportunities
+
+The potential is substantial ⚡
+
+---
+
+But the risks are real:
+• Accuracy issues for rare disease algorithms
+• Privacy leaks despite synthetic nature
+• Bias amplification from flawed source data
+• Regulatory gaps exploiting "non-identifiable" status
+• Justice concerns about sidelining real-world diversity
+
+---
+
+We argue synthetic data isn't a magic fix—it's a powerful tool that demands robust safeguards 🛡️
+
+Key needs:
+• Standards for accuracy & reliability
+• Privacy protections
+• Transparent policies
+• Continued investment in diverse, real-world datasets
+
+---
+
+Synthetic data should complement real-world data, not replace it. The choice: Will we use this technology to bridge healthcare gaps or deepen inequities?
+
+For governance teams & researchers in AI healthcare—what are you seeing?
+
+#AIGovernance #ResponsibleAI
+
+---
+
+Published in Hastings Center Report. @GRAIL_center @purduepolsci [Add coauthors] [Add funder]
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/hast.4911
+
+[Optional: tag journal/outlet here]

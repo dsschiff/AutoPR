@@ -1,0 +1,27 @@
+How do you assess AI literacy at scale? We developed AILIT-S—a 5-minute test that maintains research quality while being practical for real-world use. Published in Computers in Human Behavior: Artificial Humans: https://www.sciencedirect.com/science/article/pii/S294988212500060X
+
+🎯 The challenge: Existing AI literacy assessments take 12+ minutes, limiting their use in large-scale research and program evaluation.
+
+✅ Our solution: We distilled a comprehensive 28-item instrument into 10 essential questions, validated with 1,465 university students across the US, Germany, and UK.
+
+📊 Key findings:
+• 91% congruence with the full assessment
+• ~5 minutes completion time vs 12+ for comprehensive version
+• Strong reliability for group-level analysis (though lower for individual diagnosis)
+• Covers 5 core AI literacy domains with emphasis on technical understanding
+
+➤ Best applications: Program evaluation, trend analysis, group comparisons, and large-scale research where speed enables broader participation.
+
+🌍 For AI governance: Scalable assessment tools are essential for evaluating education programs, informing policy decisions, and ensuring citizens can thrive in an AI-driven world. AILIT-S makes systematic evaluation feasible.
+
+🔬 Future directions include validation beyond Western university populations, workplace applications, and cross-cultural AI literacy research.
+
+[Add coauthors] [Add funder]
+
+GRAIL Center | Purdue University
+
+#AIGovernance #ResponsibleAI #AILiteracy #EdTech #AIResearch #HigherEducation
+
+[Optional: tag journal/outlet here]
+
+[Attach image: img_2.jpg]

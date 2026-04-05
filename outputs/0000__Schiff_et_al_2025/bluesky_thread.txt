@@ -1,0 +1,52 @@
+AI systems decide who gets hired, who gets loans, who receives healthcare. But who's auditing the AI? 🤖
+
+Our new study explores the emerging field of AI ethics auditing—the people and processes trying to make AI accountable.
+
+https://doi.org/10.1177/20539517241299732 🧵
+
+---
+
+We interviewed 34 AI ethics auditors across 23 organizations in 7 countries. Published in Big Data & Society.
+
+The field borrows from financial auditing: planning, validating, analyzing risks, reporting. But it's still figuring out what success looks like. 📊
+
+[Attach image: img_0.jpg]
+
+---
+
+What's driving AI auditing growth?
+
+🔹 Regulation (EU AI Act, NIST frameworks)
+🔹 Reputation management (avoiding biased AI headlines)
+🔹 Competitive strategy (trustworthy AI advantage)
+
+The ecosystem spans internal teams, Big Four firms, specialized startups.
+
+[Attach image: img_1.jpg]
+
+---
+
+Key finding: Most audits focus narrowly on technical metrics.
+
+Broader impacts on vulnerable communities? Often sidelined.
+Public reporting of audit results? Almost nonexistent.
+
+Transparency and stakeholder engagement remain major gaps. 📈
+
+[Attach image: img_2.jpg]
+
+---
+
+Auditors face regulatory ambiguity, data governance gaps, and interdisciplinary friction between tech, legal, and leadership teams.
+
+Yet they're ecosystem builders—translating vague laws into actionable frameworks and pushing organizations toward better AI governance.
+
+[Attach image: img_3.jpg]
+
+---
+
+The stakes: AI influences fundamental life outcomes. Without robust, transparent audits, we risk perpetuating biases and undermining trust.
+
+For governance teams: What's your biggest auditing challenge—technical gaps, regulatory clarity, or stakeholder engagement?
+
+https://doi.org/10.1177/205395

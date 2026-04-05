@@ -1,0 +1,97 @@
+{
+  "twitter": {
+    "posts": [
+      {
+        "text": "How did AI policymaking go from bipartisan collaboration to partisan gridlock in just a few years? 🧵\n\nOur study tracks this shift across 44 states (2019-2022) and reveals the triggers that fractured early cooperation.\n\nhttps://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.700",
+        "image": null
+      },
+      {
+        "text": "🎯 The setup: AI policy began as a rare blank slate—no entrenched partisan playbooks.\n\nLegislators tackled transparency, privacy, and ethics collaboratively. Over 150 AI-related bills emerged across states during this window.",
+        "image": null
+      },
+      {
+        "text": "💡 Early wins focused on \"soft governance\"—transparency requirements, research initiatives—to avoid polarizing debates.\n\n• Illinois (2019): Hiring algorithm disclosure\n• Idaho: Pretrial risk assessments framed as governance reform",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "🤔 But by 2022, bipartisan windows narrowed.\n\nWe identify 4 key triggers of polarization:\n1️⃣ Competing problem definitions\n2️⃣ Divergent policy tools\n3️⃣ Stakeholder dynamics\n4️⃣ Strategic issue framing",
+        "image": null
+      },
+      {
+        "text": "🔑 Trigger 1—Problem definitions:\n\nEarly AI framing was broad: transparency, privacy, ethics. But when linked to racial equity or redistribution, partisan divides flared.\n\n• Dems: Equity-focused reforms\n• GOP: Industry self-regulation",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "🔧 Trigger 2—Policy tools:\n\nConsensus around \"soft\" tools (notifications, research) gave way to conflict over \"hard\" tools (demographic audits, stricter regulation).\n\nRepublicans favored innovation-friendly approaches; Democrats pushed robust oversight.",
+        "image": null
+      },
+      {
+        "text": "🤝 Trigger 3—Stakeholders:\n\nAcademic experts initially fostered neutrality. But as private-sector lobbying ramped up, partisan dynamics intensified.\n\nExample: Bail insurers in Idaho backed bipartisan regulation early on.",
+        "image": "img_2.jpg"
+      },
+      {
+        "text": "🎯 Trigger 4—\"Subsystem shopping\":\n\nPolicy entrepreneurs strategically framed AI to sidestep polarization.\n\nColorado combined education & law enforcement frameworks for facial recognition to avoid criminal justice conflicts.",
+        "image": null
+      },
+      {
+        "text": "🚨 By 2022, partisan cleavages hardened:\n\n• Republicans: Pro-AI in defense, law enforcement\n• Democrats: Focused on risks, equity concerns\n\nThis mirrored broader ideological divides over regulation and government intervention.",
+        "image": null
+      },
+      {
+        "text": "📚 Published in Policy & Internet. Results suggest policymakers can sustain collaboration by framing AI around transparency & innovation, starting with soft governance, and leveraging nonpartisan experts.\n\nhttps://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.70020\n\n@GRAIL_ce",
+        "image": null
+      }
+    ]
+  },
+  "linkedin": {
+    "text": "How did AI policymaking in the U.S. shift from bipartisan collaboration to partisan gridlock in just a few years? Our new research in Policy & Internet tracked this evolution across 44 states from 2019-2022, revealing surprising insights into the politics of emerging technology governance.\n\nhttps://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.70020\n\n✅ The opportunity: AI policy began as a rare blank slate with no entrenched partisan playbooks. Over 150 AI-related bills emerged across states, initially focused on collaborative approaches to transparency, privacy, and ethics.\n\n➤ Early bipartisan wins centered on \"soft governance\" tools—transparency requirements and research initiatives that avoided polarizing debates. Illinois passed hiring algorithm disclosure laws, while Idaho framed pretrial risk assessments as governance reform rather than criminal justice issues.\n\n• But by 2022, we observed four key triggers that fractured this cooperation:\n• Competing problem definitions (broad transparency vs. equity-focused reforms)\n• Divergent policy tools (soft notifications vs. hard demographic audits)\n• Shifting stakeholder dynamics (academic neutrality vs. private sector lobbying)\n• Strategic \"subsystem shopping\" (framing issues to navigate partisan terrain)\n\n➤ The pattern reveals how Republicans gravitated toward pro-AI positions in defense and law enforcement, while Democrats focused on risk mitigation and equity concerns—mirroring broader ideological divides over regulation.\n\nFor governance teams and policy practitioners: Results suggest sustaining collaboration requires framing AI around transparency and innovation, starting with soft governance approaches, and leveraging nonpartisan expertise to mediate debates.\n\nThe dynamics shaping AI policy today will influence how we govern other emerging technologies like biotech and quantum computing. What strategies are you seeing work for maintaining bipartisan cooperation in tech policy?\n\nGRAIL Center | Purdue University\n\n#AIGovernance #ResponsibleAI #TechPolicy #AIEthics #PolicyMaking #EmergingTech\n\n[Add coauthors]\n[Optional: tag journal/outlet here]",
+    "images": [
+      "img_1.jpg"
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "How did AI policymaking go from bipartisan collaboration to partisan gridlock in just a few years? 🧵\n\nOur new study tracks this shift across 44 states (2019-2022) and reveals the triggers that fractured early cooperation.\n\nhttps://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.70020",
+        "image": null
+      },
+      {
+        "text": "🎯 The setup: AI policy began as a rare blank slate—no entrenched partisan playbooks.\n\nLegislators tackled transparency, privacy, and ethics collaboratively. Over 150 AI-related bills emerged across states during this window.",
+        "image": null
+      },
+      {
+        "text": "💡 Early wins focused on \"soft governance\"—transparency requirements, research initiatives—to avoid polarizing debates.\n\n• Illinois (2019): Hiring algorithm disclosure\n• Idaho: Pretrial risk assessments framed as governance reform",
+        "image": "img_0.jpg"
+      },
+      {
+        "text": "🤔 But by 2022, bipartisan windows narrowed.\n\nWe identify 4 key triggers of polarization:\n1️⃣ Competing problem definitions\n2️⃣ Divergent policy tools\n3️⃣ Stakeholder dynamics\n4️⃣ Strategic \"subsystem shopping\"",
+        "image": null
+      },
+      {
+        "text": "🔑 Trigger 1—Problem definitions:\n\nEarly AI framing was broad: transparency, privacy, ethics. But when linked to racial equity or redistribution, partisan divides flared.\n\n• Dems: Equity-focused reforms\n• GOP: Industry self-regulation",
+        "image": "img_1.jpg"
+      },
+      {
+        "text": "🔧 Trigger 2—Policy tools:\n\nConsensus around \"soft\" tools (notifications, research) gave way to conflict over \"hard\" tools (demographic audits, stricter regulation).\n\nRepublicans favored innovation-friendly approaches; Democrats pushed robust oversight.",
+        "image": null
+      },
+      {
+        "text": "🤝 Trigger 3—Stakeholders:\n\nAcademic experts initially fostered neutrality. But as private-sector lobbying ramped up, partisan dynamics intensified.\n\nExample: Bail insurers in Idaho backed bipartisan regulation early on.",
+        "image": null
+      },
+      {
+        "text": "🎯 \"Subsystem shopping\":\n\nPolicy entrepreneurs strategically framed AI to sidestep polarization.\n\nColorado combined education & law enforcement frameworks for facial recognition to avoid criminal justice conflicts.",
+        "image": null
+      },
+      {
+        "text": "🚨 By 2022, partisan cleavages hardened:\n\n• Republicans: Pro-AI in defense, law enforcement\n• Democrats: Focused on risks, equity concerns\n\nThis mirrored broader ideological divides over regulation and government intervention.",
+        "image": null
+      },
+      {
+        "text": "📚 Published in Policy & Internet. Results suggest policymakers can sustain collaboration by framing AI around transparency & innovation, starting with soft governance, and leveraging nonpartisan experts.\n\nFor governance teams—what are you seeing?\n\nhttps://onlinelibrary.wiley.com/doi/abs/10.100",
+        "image": null
+      }
+    ]
+  },
+  "images_dir": "D:\\Dropbox\\Documents\\Academics\\Purdue\\GitHub\\AutoPR\\outputs\\0013_Jacobson_2026_Polarization\\img"
+}

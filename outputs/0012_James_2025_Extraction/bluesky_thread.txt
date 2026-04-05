@@ -1,0 +1,37 @@
+🚨 AI isn't just reshaping work—it's extracting value from it. Our new research examines how AI systems appropriate copyrighted material, destabilize professions, and deepen inequalities.
+
+Published in IEEE Transactions on Technology and Society 🧵
+
+https://ieeexplore.ieee.org/document/11299073
+
+---
+
+💡 We frame AI as an extractive system—like digital mining. Millions of books were used to train LLMs without consent or compensation. The innovation comes at the expense of creators and cultural heritage.
+
+---
+
+🏢 AI centralizes power in tech monopolies and wealthy nations. Smaller firms become dependent while tech giants influence policies to cement dominance—a classic feedback loop of inequality.
+
+---
+
+📚 In schools and workplaces, rushed AI implementations erode intellectual rigor and professional autonomy. Overreliance on AI tools replaces critical thinking with shortcuts.
+
+---
+
+🔍 We coin terms like "machine learning misogyny" to highlight how AI amplifies societal biases—from gender discrimination to harassment. Tech reflects and often worsens existing inequalities.
+
+---
+
+🌍 Results suggest we need governance models that prioritize equity, sustainability, and human dignity over efficiency-at-all-costs. AI governance requires multidisciplinary solutions.
+
+---
+
+For policy practitioners and governance teams: How can we balance innovation with equity in AI? We need transparency, diverse perspectives, and accountability.
+
+[Add coauthors] [Add funder]
+
+https://ieeexplore.ieee.org/document/11299073
+
+@purduepolsci.bsky.social @GRAILcenter.bsky.social
+
+[Optio
