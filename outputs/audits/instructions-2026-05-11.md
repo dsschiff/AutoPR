@@ -48,29 +48,31 @@ Not run or no score returned for this repo/surface.
 | Root/platform instructions | D (45/100): Only a .claude command shim was found. For an active repo, add a root AGENTS.md/CLAUDE.md before expecting cross-agent work. |
 | Redundancy check | Thin adapters are acceptable when they point to a canonical file; duplicated full workflow prose should stay out of adapters. |
 
-## 4 Cross-Pass Synthesis
+## Cross-Pass Synthesis
 
 | Count | Rule / finding |
 |------:|----------------|
 | 0 | No reporails rule results; command-only/manual audit. |
 
-The same universal content rules dominate the automated output across the fleet. Treat Ask Not Guess, Has Boundaries, Has Constraints and Pitfalls, and Explain Reasoning as real candidate fixes. Treat broad Has X adapter findings as likely false positives when a thin adapter points to a canonical cross-agent guide.
+The same universal content rules dominate the automated output across the fleet. Treat `Ask Not Guess`, `Has Boundaries`, `Has Constraints and Pitfalls`, and `Explain Reasoning` as real candidate fixes. Treat broad `Has X` adapter findings as likely false positives when a thin adapter points to a canonical cross-agent guide.
 
-## 5 False-Positive Candidates
+## False-Positive Candidates
 
 Most reporails scoring is unavailable because there is no root instruction file; this is a coverage gap, not a false positive.
 
-## 6 Recommended Fix Order
+## Recommended Fix Order
 
 Batch 1: add root AGENTS.md. Batch 2: decide whether CLAUDE.md is needed. Batch 3: keep command shim pointing to canonical workflow.
 
-## 7 Audit Log Entry
+## Audit Log Entry
 
-| 2026-05-11 | AutoPR: full surface | reporails scores in this report | D (45/100) | No root AGENTS.md/CLAUDE.md fallback, so non-Claude agents have no durable repo orientation. | Deferred |
+| Date | Scope | Tool/Source | Score | Finding | Status |
+|:-----|:------|:------------|:------|:--------|:-------|
+| 2026-05-11 | AutoPR: full surface | reporails scores in this report | D (45/100) | No root AGENTS.md/CLAUDE.md fallback, so non-Claude agents have no durable repo orientation. | Addressed 2026-05-18 |
 
-## 8 Out of Scope
+## Out of Scope
 
-- No instruction fixes applied.
+- No instruction fixes were applied during the original report generation step.
 - No authenticated reporails run.
 - No semantic LLM-only rules beyond the anonymous deterministic rule set.
 - No commit or push from this report generation step.
